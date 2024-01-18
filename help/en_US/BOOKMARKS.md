@@ -1,4 +1,4 @@
-# **Calendar**
+# **Bookmarks**
 
-- List all main events of AAP. Example: Rallies, Court Cases, Major Announcements/Events.
-- Scroll down on list to view all events for a specific month.
+- View your bookmarked articles when logged-in.
+- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
