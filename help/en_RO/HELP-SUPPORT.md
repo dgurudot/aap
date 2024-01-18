@@ -2,7 +2,6 @@
 
 - **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
 - **Feedback:** Share your feedback openly along with suggestions to improve experience.
-- **Status:** Check service status and subscribe to twitter for notifications.
 - **Rate:** Rate your experience on App/Play Stores.
 - **Share:** Share application with friends and family.
 - **Disclaimer:** Read about disclaimers for platform.
