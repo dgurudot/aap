@@ -1,12 +1,11 @@
-# **Preferences**
-  
-  
-Kindly use the following options to update user preferences 
-- **Email**: Logged-in account Email address. Cannot be changed and used for support.
-- **Name, Phone**: Cannot be changed from the application. Contact Support if you would like it to be updated.
-- **Theme**: Allows you to select "Dark", and "Light" or automatically choose based on the "System" theme.
-- **Language**: Allows you to choose a specific language. Please note that certain interfaces will still be in English.
-- **Use Face/Touch ID**: Allows you to log in to the application using the device's Face or Touch ID.
-- **Devices**: View account login history based on time and IP address and location (if available).
-- **Account Update**: Allows you to delete your account. 
-  -  Kindly reach us at [wiki.aap@gmail.com](mailto:wiki.aap@gmail.com) if you want account to be permanently deleted. 
+# **पसंद**
+
+उपयोगकर्ता प्राथमिकताओं को अद्यतन करने के लिए कृपया निम्नलिखित विकल्पों का उपयोग करें
+- **ईमेल**: लॉग-इन खाता ईमेल पता। इसे बदला नहीं जा सकता और समर्थन के लिए उपयोग नहीं किया जा सकता.
+- **नाम, फोन**: एप्लिकेशन से बदला नहीं जा सकता। यदि आप इसे अद्यतन कराना चाहते हैं तो सहायता से संपर्क करें।
+- **थीम**: आपको "डार्क", और "लाइट" का चयन करने या "सिस्टम" थीम के आधार पर स्वचालित रूप से चयन करने की अनुमति देता है।
+- **भाषा**: आपको एक विशिष्ट भाषा चुनने की अनुमति देता है। कृपया ध्यान दें कि कुछ इंटरफ़ेस अभी भी अंग्रेजी में होंगे।
+- **फेस/टच आईडी का उपयोग करें**: आपको डिवाइस के फेस या टच आईडी का उपयोग करके एप्लिकेशन में लॉग इन करने की अनुमति देता है।
+- **डिवाइस**: समय और आईपी पते और स्थान (यदि उपलब्ध हो) के आधार पर खाता लॉगिन इतिहास देखें।
+- **खाता अद्यतन**: आपको अपना खाता हटाने की अनुमति देता है।
+  - यदि आप चाहते हैं कि खाता स्थायी रूप से हटा दिया जाए तो कृपया [wiki.aap@gmail.com](mailto:wiki.aap@gmail.com) पर हमसे संपर्क करें।
