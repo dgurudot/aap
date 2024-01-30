@@ -1,6 +1,5 @@
 # **Preferences**
-  
-  
+   
 Kindly use the following options to update user preferences 
 - **Email**: Logged-in account Email address. Cannot be changed and used for support.
 - **Name, Phone**: Cannot be changed from the application. Contact Support if you would like it to be updated.
