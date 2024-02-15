@@ -1,6 +1,4 @@
-# **Reorder**
+# **دوبارہ ترتیب دیں**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- یہ ترتیب آپ کو **مینو کی ترتیب کو ایڈجسٹ** اور ڈسپلے کے لیے مخصوص مینو کو ** فعال یا غیر فعال کرنے کی اجازت دیتی ہے۔
+- دوسرے مینو کی نسبت مینو کی مخصوص ترتیب کو تبدیل کرنے کے لیے کسی خاص مینو کو دیر تک دبائیں اور ڈریگ/ڈراپ کریں۔

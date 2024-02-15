@@ -1,6 +1,4 @@
-# **Reorder**
+# ** ରେକର୍ଡ **
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- ଏହି ସେଟିଂ ଆପଣଙ୍କୁ ମେନୁର କ୍ରମକୁ ** ଆଡଜଷ୍ଟ କରିବାକୁ ଅନୁମତି ଦିଏ ଏବଂ ପ୍ରଦର୍ଶନ ପାଇଁ ** ନିର୍ଦ୍ଦିଷ୍ଟ ମେନୁକୁ ** ସକ୍ଷମ କିମ୍ବା ଅକ୍ଷମ କରିଥାଏ |
+- ଅନ୍ୟ ମେନୁଗୁଡ଼ିକ ସହିତ ମେନୁର ନିର୍ଦ୍ଦିଷ୍ଟ କ୍ରମ ପରିବର୍ତ୍ତନ କରିବାକୁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ମେନୁକୁ ଲମ୍ବା ଦବାନ୍ତୁ ଏବଂ ଡ୍ରାଗ୍ / ଡ୍ରପ୍ କରନ୍ତୁ |

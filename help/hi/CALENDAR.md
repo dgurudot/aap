@@ -1,4 +1,4 @@
-# **Calendar**
+# **पंचांग**
 
-- List all main events of AAP. Example: Rallies, Court Cases, Major Announcements/Events.
-- Scroll down on list to view all events for a specific month.
+- **आप की सभी मुख्य घटनाओं की सूची**। उदाहरण: रैलियाँ, अदालती मामले, प्रमुख घोषणाएँ/घटनाएँ
+- किसी विशिष्ट माह की सभी घटनाओं को देखने के लिए सूची पर **नीचे स्क्रॉल करें**

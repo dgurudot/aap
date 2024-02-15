@@ -1,34 +1,34 @@
-## Terms and Conditions
+## ഉപാധികളും നിബന്ധനകളും
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+ഈ AAP വിക്കി ആപ്പ് ഡൗൺലോഡ് ചെയ്യുകയോ ഇൻസ്റ്റാൾ ചെയ്യുകയോ ഉപയോഗിക്കുകയോ ചെയ്യുന്നതിലൂടെ, ഈ ഉപയോഗ നിബന്ധനകൾ പാലിക്കാൻ നിങ്ങൾ സമ്മതിക്കുന്നു.
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. ഉള്ളടക്ക ഉപയോഗം:
+ആപ്പിൽ നൽകിയിരിക്കുന്ന വിക്കി ഉള്ളടക്കം വ്യക്തിപരവും വാണിജ്യേതരവുമായ ഉപയോഗത്തിനുള്ളതാണ്. വ്യക്തമായ അനുമതിയില്ലാതെ ഉള്ളടക്കം പുനർനിർമ്മിക്കാനോ വിതരണം ചെയ്യാനോ പരിഷ്ക്കരിക്കാനോ ഉപയോക്താക്കൾക്ക് അനുവാദമില്ല.
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. ഉപയോക്തൃ പെരുമാറ്റം:
+ഉപയോക്താക്കൾ ബാധകമായ നിയമങ്ങൾക്കും ചട്ടങ്ങൾക്കും അനുസൃതമായ രീതിയിൽ ആപ്പ് ഉപയോഗിക്കണം. അധിക്ഷേപകരമോ നിയമവിരുദ്ധമോ വിനാശകരമോ ആയ ഏതൊരു പെരുമാറ്റവും കർശനമായി നിരോധിച്ചിരിക്കുന്നു.
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. അക്കൗണ്ട് വിവരങ്ങൾ:
+ആപ്പിന് ഉപയോക്തൃ രജിസ്ട്രേഷൻ ആവശ്യമാണെങ്കിൽ, അവരുടെ അക്കൗണ്ട് വിവരങ്ങളുടെ രഹസ്യസ്വഭാവം നിലനിർത്തുന്നതിന് ഉപയോക്താക്കൾക്ക് ഉത്തരവാദിത്തമുണ്ട്. അവരുടെ അക്കൗണ്ടിന് കീഴിൽ നടക്കുന്ന ഏതൊരു പ്രവർത്തനവും അവരുടെ മാത്രം ഉത്തരവാദിത്തമാണ്.
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. ബാധകമായ നിയമങ്ങൾ:
+ആപ്പ് ഉപയോഗിക്കുമ്പോൾ എല്ലാ പ്രാദേശിക, സംസ്ഥാന, ദേശീയ നിയമങ്ങളും അനുസരിക്കാൻ ഉപയോക്താക്കൾ സമ്മതിക്കുന്നു. ഏതെങ്കിലും ലംഘനം ഉപയോക്തൃ ആക്സസ് അവസാനിപ്പിക്കുന്നതിലേക്ക് നയിച്ചേക്കാം.
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. ബൗദ്ധിക സ്വത്ത്:
+ആപ്പും അതിൻ്റെ ഉള്ളടക്കവും ബൗദ്ധിക സ്വത്തവകാശ നിയമങ്ങളാൽ പരിരക്ഷിക്കപ്പെട്ടിരിക്കുന്നു. പകർപ്പവകാശങ്ങൾ, വ്യാപാരമുദ്രകൾ അല്ലെങ്കിൽ ആപ്പുമായി ബന്ധപ്പെട്ട മറ്റേതെങ്കിലും അവകാശങ്ങൾ ലംഘിക്കരുതെന്ന് ഉപയോക്താക്കൾ സമ്മതിക്കുന്നു.
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. മൂന്നാം കക്ഷി ലിങ്കുകൾ:
+ആപ്പിൽ മൂന്നാം കക്ഷി വെബ്‌സൈറ്റുകളിലേക്കുള്ള ലിങ്കുകൾ അടങ്ങിയിരിക്കാം. ഈ ലിങ്കുകൾ സൗകര്യാർത്ഥം നൽകിയതാണെന്ന് ഉപയോക്താക്കൾ സമ്മതിക്കുന്നു, ബാഹ്യ സൈറ്റുകളിലെ ഉള്ളടക്കത്തെ ഞങ്ങൾ അംഗീകരിക്കുകയോ നിയന്ത്രിക്കുകയോ ചെയ്യുന്നില്ല.
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. വാറൻ്റിയുടെ നിരാകരണം:
+വാറൻ്റികളൊന്നുമില്ലാതെ ആപ്പ് "ഉള്ളതുപോലെ" നൽകിയിരിക്കുന്നു. AAP വിക്കി ഉള്ളടക്കത്തിൻ്റെ കൃത്യതയോ പൂർണ്ണതയോ വിശ്വാസ്യതയോ ഞങ്ങൾ ഉറപ്പ് നൽകുന്നില്ല.
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. ബാധ്യതയുടെ പരിമിതി:
+ഒരു കാരണവശാലും ആപ്പ് ഉപയോഗിക്കുമ്പോൾ ഉണ്ടാകുന്ന പ്രത്യക്ഷമോ പരോക്ഷമോ ആകസ്മികമോ അനന്തരഫലമോ ശിക്ഷാർഹമോ ആയ നാശനഷ്ടങ്ങൾക്ക് ആപ്പ് ഡെവലപ്പർമാരോ ബന്ധപ്പെട്ട കക്ഷികളോ ബാധ്യസ്ഥരായിരിക്കില്ല.
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. പ്രവേശനം അവസാനിപ്പിക്കൽ:
+ഈ നിബന്ധനകളുടെ ലംഘനം ഉൾപ്പെടെ, ഒരു കാരണവശാലും, അറിയിപ്പ് കൂടാതെ, ഞങ്ങളുടെ വിവേചനാധികാരത്തിൽ ആപ്പിലേക്കുള്ള ഉപയോക്തൃ ആക്‌സസ് അവസാനിപ്പിക്കാനുള്ള അവകാശം ഞങ്ങളിൽ നിക്ഷിപ്തമാണ്.
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. നിബന്ധനകളിലേക്കുള്ള അപ്‌ഡേറ്റുകൾ:
+മുൻകൂർ അറിയിപ്പ് കൂടാതെ ഈ നിബന്ധനകൾ അപ്ഡേറ്റ് ചെയ്തേക്കാം. ഏത് മാറ്റത്തിനും നിബന്ധനകൾ പതിവായി അവലോകനം ചെയ്യാൻ ഉപയോക്താക്കളെ പ്രോത്സാഹിപ്പിക്കുന്നു.
+AAP വിക്കി ആപ്പ് ഉപയോഗിക്കുന്നതിലൂടെ, ഉപയോക്താക്കൾ ഈ ഉപയോഗ നിബന്ധനകൾ അംഗീകരിക്കുകയും അംഗീകരിക്കുകയും ചെയ്യുന്നു. ഈ നിബന്ധനകളോട് നിങ്ങൾ യോജിക്കുന്നില്ലെങ്കിൽ, ആപ്പ് ഉപയോഗിക്കുന്നതിൽ നിന്ന് വിട്ടുനിൽക്കുക.

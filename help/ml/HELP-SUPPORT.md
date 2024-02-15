@@ -1,18 +1,13 @@
-# **Support**
+# **ബന്ധിപ്പിക്കുക**
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve experience.
-- **Rate:** Rate your experience on App/Play Stores.
-- **Share:** Share application with friends and family.
-- **Disclaimer:** Read about disclaimers for platform.
-- **Privacy:** Read about privacy for platform.
-- **Terms of Use:** Read about terms of use for platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- **പതിവുചോദ്യങ്ങളും അഭ്യർത്ഥനകളും:** പതിവായി ചോദിക്കുന്ന ചോദ്യങ്ങൾക്ക് 24x7 ഉത്തരം കണ്ടെത്തുക. തത്സമയ ചാറ്റ് പിന്തുണയുമായോ ഓപ്പൺ സപ്പോർട്ട് കേസുകളുമായോ ബന്ധപ്പെടുക
+- **ഫീഡ്‌ബാക്ക്:** അനുഭവം മെച്ചപ്പെടുത്തുന്നതിനുള്ള നിർദ്ദേശങ്ങൾക്കൊപ്പം നിങ്ങളുടെ ഫീഡ്‌ബാക്കും തുറന്ന് പങ്കിടുക
+- ** സന്നദ്ധസേവനം:** നിങ്ങൾക്ക് ടീമിൽ ചേരണമെങ്കിൽ ഞങ്ങളെ ബന്ധപ്പെടുക
+- **റേറ്റ്:** ആപ്പ്/പ്ലേ സ്റ്റോറുകളിൽ നിങ്ങളുടെ അനുഭവം റേറ്റ് ചെയ്യുക
+- **പങ്കിടുക:** സുഹൃത്തുക്കളുമായും കുടുംബാംഗങ്ങളുമായും ആപ്ലിക്കേഷൻ പങ്കിടുക
+- **സോഷ്യൽ മീഡിയ:** നിങ്ങളുടെ പ്രിയപ്പെട്ട സോഷ്യൽ മീഡിയ ചാനലുകൾ വഴി ഞങ്ങളുമായി ബന്ധപ്പെടുന്നതിന് നിർദ്ദിഷ്ട സോഷ്യൽ മീഡിയ ഐക്കണുകളിൽ ക്ലിക്കുചെയ്യുക
+- **സ്വകാര്യത:** പ്ലാറ്റ്‌ഫോമിനായുള്ള സ്വകാര്യതയെക്കുറിച്ച് വായിക്കുക
+- **ഉപയോഗ നിബന്ധനകൾ:** പ്ലാറ്റ്‌ഫോമിനായുള്ള ഉപയോഗ നിബന്ധനകളെക്കുറിച്ച് വായിക്കുക
+- ** നിരാകരണം:** പ്ലാറ്റ്‌ഫോമിനായുള്ള നിരാകരണങ്ങളെക്കുറിച്ച് വായിക്കുക
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
-
+- **ശ്രദ്ധിക്കുക:** ഉപഭോക്തൃ പിന്തുണാ ടീമിൽ നിന്നുള്ള നിർദ്ദേശങ്ങൾക്കൊപ്പം മാത്രം മുകളിൽ വലത് പിന്തുണാ ടൂളുകളുടെ ബട്ടൺ ഉപയോഗിക്കുക

@@ -1,11 +1,11 @@
-## Full Disclaimer
+## ಪೂರ್ಣ ಹಕ್ಕು ನಿರಾಕರಣೆ
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+ಈ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿರುವ ಮಾಹಿತಿಯು ಸಾಮಾನ್ಯ ಮಾಹಿತಿ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ. ಮಾಹಿತಿಯನ್ನು ಸಾರ್ವಜನಿಕ ಬಳಕೆಗಾಗಿ ಸರಿಯಾಗಿ ಉಲ್ಲೇಖಿಸಲಾದ ಮಾಹಿತಿಯ ಉಲ್ಲೇಖಗಳಿಂದ ಪಡೆಯಲಾಗಿದೆ ಮತ್ತು ನಾವು ಮಾಹಿತಿಯನ್ನು ನವೀಕೃತವಾಗಿ ಮತ್ತು ಸರಿಯಾಗಿ ಇರಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಾಗ, ನಾವು ಯಾವುದೇ ರೀತಿಯ ಪ್ರಾತಿನಿಧ್ಯಗಳನ್ನು ಅಥವಾ ಖಾತರಿಗಳನ್ನು ನೀಡುವುದಿಲ್ಲ, ಸಂಪೂರ್ಣತೆ, ನಿಖರತೆ, ವಿಶ್ವಾಸಾರ್ಹತೆ, ಸೂಕ್ತತೆಯ ಬಗ್ಗೆ ವ್ಯಕ್ತಪಡಿಸುವ ಅಥವಾ ಸೂಚಿಸಿದ. ಅಥವಾ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಲಭ್ಯತೆ ಅಥವಾ ಯಾವುದೇ ಉದ್ದೇಶಕ್ಕಾಗಿ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿರುವ ಮಾಹಿತಿ, ಉತ್ಪನ್ನಗಳು, ಸೇವೆಗಳು ಅಥವಾ ಸಂಬಂಧಿತ ಗ್ರಾಫಿಕ್ಸ್. ಅಂತಹ ಮಾಹಿತಿಯ ಮೇಲೆ ನೀವು ಇರಿಸುವ ಯಾವುದೇ ಅವಲಂಬನೆಯು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ನಿಮ್ಮ ಸ್ವಂತ ಅಪಾಯದಲ್ಲಿದೆ.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+ಈ ವೆಬ್‌ಸೈಟ್‌ನ ಬಳಕೆಯಿಂದ ಉಂಟಾಗುವ ಡೇಟಾ ಅಥವಾ ಲಾಭದ ನಷ್ಟದಿಂದ ಉಂಟಾಗುವ ಯಾವುದೇ ನಷ್ಟ ಅಥವಾ ಹಾನಿಗೆ ಮಿತಿಯಿಲ್ಲದೆ, ಪರೋಕ್ಷ ಅಥವಾ ಪರಿಣಾಮವಾಗಿ ನಷ್ಟ ಅಥವಾ ಹಾನಿ ಸೇರಿದಂತೆ ಯಾವುದೇ ನಷ್ಟ ಅಥವಾ ಹಾನಿಗೆ ನಾವು ಯಾವುದೇ ಸಂದರ್ಭದಲ್ಲಿ ಜವಾಬ್ದಾರರಾಗಿರುವುದಿಲ್ಲ. .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+ಈ ವೆಬ್‌ಸೈಟ್ ಮೂಲಕ ನೀವು ನಮ್ಮ ನಿಯಂತ್ರಣದಲ್ಲಿಲ್ಲದ ಇತರ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಆ ಸೈಟ್‌ಗಳ ಸ್ವರೂಪ, ವಿಷಯ ಮತ್ತು ಲಭ್ಯತೆಯ ಮೇಲೆ ನಮಗೆ ಯಾವುದೇ ನಿಯಂತ್ರಣವಿಲ್ಲ. ಯಾವುದೇ ಲಿಂಕ್‌ಗಳ ಸೇರ್ಪಡೆಯು ಶಿಫಾರಸನ್ನು ಸೂಚಿಸುವುದಿಲ್ಲ ಅಥವಾ ಅವುಗಳಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದ ಅಭಿಪ್ರಾಯಗಳನ್ನು ಅನುಮೋದಿಸುವುದಿಲ್ಲ.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಸುಗಮವಾಗಿ ಚಾಲನೆಯಲ್ಲಿಡಲು ಎಲ್ಲಾ ಪ್ರಯತ್ನಗಳನ್ನು ಮಾಡಲಾಗುತ್ತದೆ. ಆದಾಗ್ಯೂ, ನಮ್ಮ ನಿಯಂತ್ರಣಕ್ಕೆ ಮೀರಿದ ತಾಂತ್ರಿಕ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ ವೆಬ್‌ಸೈಟ್ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ ಎಂಬುದಕ್ಕೆ ನಾವು ಯಾವುದೇ ಜವಾಬ್ದಾರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದಿಲ್ಲ ಮತ್ತು ಜವಾಬ್ದಾರರಾಗಿರುವುದಿಲ್ಲ.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**ಗಮನಿಸಿ: ನೀವು ಯಾವುದೇ ದೋಷ/ತಪ್ಪು ಮಾಹಿತಿಯನ್ನು ಕಂಡುಕೊಂಡರೆ, ದಯವಿಟ್ಟು ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ. ಸೂಚಿಸಿದ ಉಲ್ಲೇಖದಿಂದ ಮಾಹಿತಿಯನ್ನು ಮಂದವಾಗಿ ಪರಿಶೀಲಿಸಿದ ನಂತರ ತಿದ್ದುಪಡಿಗಳನ್ನು ಮಾಡಲು ನಾವು ಸಂತೋಷಪಡುತ್ತೇವೆ**

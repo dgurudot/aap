@@ -1,11 +1,11 @@
-## Full Disclaimer
+## সম্পূর্ণ দাবিত্যাগ
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+এই ওয়েবসাইটে থাকা তথ্য শুধুমাত্র সাধারণ তথ্যের উদ্দেশ্যে। তথ্যটি জনসাধারণের ব্যবহারের জন্য তথ্যের যথাযথভাবে উল্লিখিত রেফারেন্স থেকে প্রাপ্ত করা হয়েছে এবং যখন আমরা তথ্যটি আপ টু ডেট এবং সঠিক রাখার চেষ্টা করি, আমরা সম্পূর্ণতা, নির্ভুলতা, নির্ভরযোগ্যতা, উপযুক্ততা সম্পর্কে কোনও ধরণের, প্রকাশ বা উহ্য কোন উপস্থাপনা বা ওয়ারেন্টি করি না। বা ওয়েবসাইট সম্পর্কিত প্রাপ্যতা বা তথ্য, পণ্য, পরিষেবা, বা কোনও উদ্দেশ্যে ওয়েবসাইটে থাকা সম্পর্কিত গ্রাফিক্স। এই ধরনের তথ্যের উপর আপনি যে কোন নির্ভরতা রাখেন তাই কঠোরভাবে আপনার নিজের ঝুঁকিতে।
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+কোনো ক্ষেত্রেই আমরা সীমাবদ্ধতা ছাড়াই কোনো ক্ষতি বা ক্ষতির জন্য দায়ী থাকব না, পরোক্ষ বা ফলস্বরূপ ক্ষতি বা ক্ষয়ক্ষতি, বা এই ওয়েবসাইটটির ব্যবহার বা এর সাথে সম্পর্কিত ডেটা বা লাভের ক্ষতি থেকে উদ্ভূত কোনো ক্ষতি বা ক্ষতি। .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+এই ওয়েবসাইটের মাধ্যমে আপনি আমাদের নিয়ন্ত্রণের অধীনে নয় এমন অন্যান্য ওয়েবসাইটের সাথে লিঙ্ক করতে পারবেন। সেই সাইটগুলির প্রকৃতি, বিষয়বস্তু এবং প্রাপ্যতার উপর আমাদের কোন নিয়ন্ত্রণ নেই। কোনো লিঙ্কের অন্তর্ভুক্তি অগত্যা একটি সুপারিশ বোঝায় না বা তাদের মধ্যে প্রকাশিত মতামত অনুমোদন করে না।
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+ওয়েবসাইট আপ এবং মসৃণভাবে চলমান রাখা প্রতিটি প্রচেষ্টা করা হয়. যাইহোক, আমাদের নিয়ন্ত্রণের বাইরে প্রযুক্তিগত সমস্যার কারণে ওয়েবসাইটটি সাময়িকভাবে অনুপলব্ধ হওয়ার জন্য আমরা কোনও দায়বদ্ধতা নিই না এবং এর জন্য দায়বদ্ধ হব না।
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+** দ্রষ্টব্য: আপনি যদি কোনো ত্রুটি/ভুল তথ্য খুঁজে পান, অনুগ্রহ করে আমাদের সাথে যোগাযোগ করুন। প্রস্তাবিত রেফারেন্স থেকে তথ্য সঠিকভাবে যাচাই করার পরে আমরা সংশোধন করতে পেরে খুশি **

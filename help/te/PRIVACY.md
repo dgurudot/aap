@@ -1,28 +1,28 @@
-## Privacy and data processing policy
+## గోప్యత మరియు డేటా ప్రాసెసింగ్ విధానం
 
-1. Information Collection:
-We collect basic user information such as device type, language/category preferences, theme for a personalized AAP Wiki experience.
-User-provided data, like saved preferences is stored locally on the device. Bookmarks are stored on AAP Wiki cloud and synced across devices for user.
+1. సమాచార సేకరణ:
+మేము వ్యక్తిగతీకరించిన AAP వికీ అనుభవం కోసం పరికర రకం, భాష/వర్గం ప్రాధాన్యతలు, థీమ్ వంటి ప్రాథమిక వినియోగదారు సమాచారాన్ని సేకరిస్తాము.
+వినియోగదారు అందించిన డేటా, సేవ్ చేయబడిన ప్రాధాన్యతల వంటివి పరికరంలో స్థానికంగా నిల్వ చేయబడతాయి. బుక్‌మార్క్‌లు AAP వికీ క్లౌడ్‌లో నిల్వ చేయబడతాయి మరియు వినియోగదారు కోసం పరికరాల్లో సమకాలీకరించబడతాయి.
 
-2. Data Usage:
-Collected data is used to deliver relevant article content, improve app functionality, and enhance the user experience.
-We do not share personally identifiable information with third parties without explicit user consent.
+2. డేటా వినియోగం:
+సేకరించిన డేటా సంబంధిత కథనం కంటెంట్‌ను అందించడానికి, యాప్ కార్యాచరణను మెరుగుపరచడానికి మరియు వినియోగదారు అనుభవాన్ని మెరుగుపరచడానికి ఉపయోగించబడుతుంది.
+స్పష్టమైన వినియోగదారు సమ్మతి లేకుండా మేము వ్యక్తిగతంగా గుర్తించదగిన సమాచారాన్ని మూడవ పక్షాలతో భాగస్వామ్యం చేయము.
 
-3. Analytics:
-We utilize analytics tools to gather aggregated, non-personal information about app usage patterns. This helps us optimize and enhance the app.
-Security:
+3. విశ్లేషణలు:
+యాప్ వినియోగ నమూనాల గురించి సమగ్రమైన, వ్యక్తిగతేతర సమాచారాన్ని సేకరించడానికి మేము విశ్లేషణ సాధనాలను ఉపయోగిస్తాము. ఇది యాప్‌ను ఆప్టిమైజ్ చేయడానికి మరియు మెరుగుపరచడంలో మాకు సహాయపడుతుంది.
+భద్రత:
 
-4. We employ industry-standard security measures to protect user data from unauthorized access, disclosure, or alteration.
+4. అనధికారిక యాక్సెస్, బహిర్గతం లేదా మార్పు నుండి వినియోగదారు డేటాను రక్షించడానికి మేము పరిశ్రమ-ప్రామాణిక భద్రతా చర్యలను ఉపయోగిస్తాము.
 
-5. Third-Party Links:
-The app may contain links to third-party websites. Users are encouraged to review the privacy policies of these external sites, as we do not control or endorse their practices.
+5. మూడవ పక్షం లింకులు:
+యాప్ మూడవ పక్షం వెబ్‌సైట్‌లకు లింక్‌లను కలిగి ఉండవచ్చు. ఈ బాహ్య సైట్‌ల యొక్క గోప్యతా విధానాలను సమీక్షించమని వినియోగదారులు ప్రోత్సహించబడతారు, ఎందుకంటే మేము వారి అభ్యాసాలను నియంత్రించము లేదా ఆమోదించము.
 
-6. Updates and Communication:
-Users may receive occasional updates or communications about app features, news highlights, or important privacy policy changes.
+6. నవీకరణలు మరియు కమ్యూనికేషన్:
+యాప్ ఫీచర్‌లు, వార్తల ముఖ్యాంశాలు లేదా ముఖ్యమైన గోప్యతా విధాన మార్పుల గురించి వినియోగదారులు అప్పుడప్పుడు అప్‌డేట్‌లు లేదా కమ్యూనికేషన్‌లను స్వీకరించవచ్చు.
 
-7. Children's Privacy:
-The app is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+7. పిల్లల గోప్యత:
+యాప్ 13 ఏళ్లలోపు పిల్లల కోసం ఉద్దేశించబడలేదు. మేము పిల్లల నుండి వ్యక్తిగత సమాచారాన్ని ఉద్దేశపూర్వకంగా సేకరించము.
 
-8. Policy Changes:
-Any updates or changes to the privacy policy will be communicated within the app. Users are advised to regularly review the policy for the latest information.
-By using the AAP Wiki App, users agree to the terms outlined in this privacy policy.
+8. విధాన మార్పులు:
+గోప్యతా విధానానికి సంబంధించిన ఏవైనా అప్‌డేట్‌లు లేదా మార్పులు యాప్‌లో తెలియజేయబడతాయి. తాజా సమాచారం కోసం వినియోగదారులు పాలసీని క్రమం తప్పకుండా సమీక్షించాలని సూచించారు.
+AAP వికీ యాప్‌ని ఉపయోగించడం ద్వారా, వినియోగదారులు ఈ గోప్యతా విధానంలో పేర్కొన్న నిబంధనలను అంగీకరిస్తున్నారు.

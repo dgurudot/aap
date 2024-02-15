@@ -1,11 +1,7 @@
-# **Preferences**
-   
-Kindly use the following options to update user preferences 
-- **Email**: Logged-in account Email address. Cannot be changed and used for support.
-- **Name, Phone**: Cannot be changed from the application. Contact Support if you would like it to be updated.
-- **Theme**: Allows you to select "Dark", and "Light" or automatically choose based on the "System" theme.
-- **Language**: Allows you to choose a specific language. Please note that certain interfaces will still be in English.
-- **Use Face/Touch ID**: Allows you to log in to the application using the device's Face or Touch ID.
-- **Devices**: View account login history based on time and IP address and location (if available).
-- **Account Update**: Allows you to delete your account. 
-  -  Kindly reach us at [wiki.aap@gmail.com](mailto:wiki.aap@gmail.com) if you want account to be permanently deleted. 
+# **સેટિંગ્સ**
+
+કૃપા કરીને વપરાશકર્તાની પસંદગીઓને અપડેટ કરવા માટે નીચેના વિકલ્પોનો ઉપયોગ કરો
+- **થીમ**: તમને "ડાર્ક" અને "લાઇટ" પસંદ કરવા અથવા "સિસ્ટમ" થીમના આધારે આપમેળે પસંદ કરવાની મંજૂરી આપે છે
+- **ભાષા**: તમને ચોક્કસ ભાષા પસંદ કરવાની મંજૂરી આપે છે. મહેરબાની કરીને નોંધ કરો કે અમુક ઇન્ટરફેસ હજુ પણ અંગ્રેજીમાં હશે
+- **એકાઉન્ટ અપડેટ**: તમને તમારું એકાઉન્ટ કાઢી નાખવાની મંજૂરી આપે છે. તમારા એકાઉન્ટ માટે આ વિકલ્પ જોવા માટે કૃપા કરીને વધુ દ્વારા સાઇન-ઇન કરો
+   - જો તમે એકાઉન્ટ કાયમી ધોરણે કાઢી નાખવા માંગતા હોવ તો કૃપા કરીને અમારો [tickets@aapwiki.p.tawk.email](mailto:tickets@aapwiki.p.tawk.email) પર સંપર્ક કરો

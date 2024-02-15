@@ -1,34 +1,34 @@
-## Terms and Conditions
+## விதிமுறைகள் மற்றும் நிபந்தனைகள்
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+இந்த AAP விக்கி பயன்பாட்டைப் பதிவிறக்கி, நிறுவி அல்லது பயன்படுத்துவதன் மூலம், இந்தப் பயன்பாட்டு விதிமுறைகளுக்கு இணங்க ஒப்புக்கொள்கிறீர்கள்.
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. உள்ளடக்கப் பயன்பாடு:
+பயன்பாட்டில் வழங்கப்பட்ட விக்கி உள்ளடக்கம் தனிப்பட்ட, வணிகம் அல்லாத பயன்பாட்டிற்கானது. வெளிப்படையான அனுமதியின்றி உள்ளடக்கத்தை மீண்டும் உருவாக்கவோ, விநியோகிக்கவோ அல்லது மாற்றவோ பயனர்களுக்கு அனுமதி இல்லை.
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. பயனர் நடத்தை:
+பொருந்தக்கூடிய சட்டங்கள் மற்றும் ஒழுங்குமுறைகளுக்கு இசைவான முறையில் பயனர்கள் பயன்பாட்டைப் பயன்படுத்த வேண்டும். எந்தவொரு தவறான, சட்டவிரோத அல்லது இடையூறு விளைவிக்கும் நடத்தை கண்டிப்பாக தடைசெய்யப்பட்டுள்ளது.
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. கணக்கு தகவல்:
+பயன்பாட்டிற்குப் பயனர் பதிவு தேவைப்பட்டால், பயனர்கள் தங்கள் கணக்குத் தகவலின் ரகசியத்தன்மையைப் பேணுவதற்கு பொறுப்பாவார்கள். அவர்களின் கணக்கின் கீழ் மேற்கொள்ளப்படும் எந்தவொரு செயலும் அவர்களின் முழுப் பொறுப்பாகும்.
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. பொருந்தக்கூடிய சட்டங்கள்:
+பயன்பாட்டைப் பயன்படுத்தும் போது அனைத்து உள்ளூர், மாநில மற்றும் தேசிய சட்டங்களுக்கும் இணங்க பயனர்கள் ஒப்புக்கொள்கிறார்கள். எந்தவொரு மீறலும் பயனர் அணுகலை நிறுத்துவதற்கு வழிவகுக்கும்.
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. அறிவுசார் சொத்து:
+பயன்பாடும் அதன் உள்ளடக்கமும் அறிவுசார் சொத்துரிமைச் சட்டங்களால் பாதுகாக்கப்படுகின்றன. பதிப்புரிமைகள், வர்த்தக முத்திரைகள் அல்லது பயன்பாட்டுடன் தொடர்புடைய பிற உரிமைகளை மீற வேண்டாம் என்று பயனர்கள் ஒப்புக்கொள்கிறார்கள்.
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. மூன்றாம் தரப்பு இணைப்புகள்:
+பயன்பாட்டில் மூன்றாம் தரப்பு இணையதளங்களுக்கான இணைப்புகள் இருக்கலாம். இந்த இணைப்புகள் வசதிக்காக வழங்கப்பட்டுள்ளன என்பதை பயனர்கள் ஒப்புக்கொள்கிறார்கள், மேலும் வெளிப்புற தளங்களில் உள்ள உள்ளடக்கத்தை நாங்கள் அங்கீகரிக்கவோ கட்டுப்படுத்தவோ மாட்டோம்.
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. உத்தரவாதத்தின் மறுப்பு:
+பயன்பாடு எந்த உத்தரவாதமும் இல்லாமல் "உள்ளபடியே" வழங்கப்படுகிறது. AAP விக்கி உள்ளடக்கத்தின் துல்லியம், முழுமை அல்லது நம்பகத்தன்மைக்கு நாங்கள் உத்தரவாதம் அளிக்கவில்லை.
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. பொறுப்பு வரம்பு:
+பயன்பாட்டின் பயன்பாட்டிலிருந்து எழும் நேரடி, மறைமுக, தற்செயலான, பின்விளைவு அல்லது தண்டனைக்குரிய சேதங்களுக்கு எந்தவொரு நிகழ்விலும் செயலி உருவாக்குநர்கள் அல்லது தொடர்புடைய தரப்பினர் பொறுப்பேற்க மாட்டார்கள்.
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. அணுகல் நிறுத்தம்:
+இந்த விதிமுறைகளை மீறுவது உட்பட எந்தவொரு காரணத்திற்காகவும், எந்த அறிவிப்பும் இன்றி, எங்கள் விருப்பப்படி, பயன்பாட்டிற்கான பயனர் அணுகலை நிறுத்துவதற்கான உரிமையை நாங்கள் வைத்திருக்கிறோம்.
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. விதிமுறைகளுக்கான புதுப்பிப்புகள்:
+இந்த விதிமுறைகள் முன்னறிவிப்பின்றி புதுப்பிக்கப்படலாம். எந்த மாற்றங்களுக்கும் விதிமுறைகளை தவறாமல் மதிப்பாய்வு செய்ய பயனர்கள் ஊக்குவிக்கப்படுகிறார்கள்.
+AAP விக்கி பயன்பாட்டைப் பயன்படுத்துவதன் மூலம், பயனர்கள் இந்த பயன்பாட்டு விதிமுறைகளை ஒப்புக்கொள்கிறார்கள். இந்த விதிமுறைகளுடன் நீங்கள் உடன்படவில்லை என்றால், பயன்பாட்டைப் பயன்படுத்துவதைத் தவிர்க்கவும்.

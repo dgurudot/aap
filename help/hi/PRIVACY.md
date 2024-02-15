@@ -1,35 +1,28 @@
-Privacy and data processing policy
+## गोपनीयता और डेटा प्रोसेसिंग नीति
 
-Information Collection:
+1. सूचना संग्रहण:
+हम व्यक्तिगत एएपी विकी अनुभव के लिए बुनियादी उपयोगकर्ता जानकारी जैसे डिवाइस प्रकार, भाषा/श्रेणी प्राथमिकताएं, थीम एकत्र करते हैं।
+उपयोगकर्ता द्वारा प्रदत्त डेटा, जैसे सहेजी गई प्राथमिकताएँ, डिवाइस पर स्थानीय रूप से संग्रहीत किया जाता है। बुकमार्क AAP विकी क्लाउड पर संग्रहीत किए जाते हैं और उपयोगकर्ता के लिए सभी डिवाइसों में समन्वयित किए जाते हैं।
 
-We collect basic user information such as device type, language preferences, and location for a personalized news experience.
-User-provided data, like saved preferences or bookmarked articles, is stored locally on the device.
-Data Usage:
+2. डेटा उपयोग:
+एकत्रित डेटा का उपयोग प्रासंगिक लेख सामग्री वितरित करने, ऐप की कार्यक्षमता में सुधार करने और उपयोगकर्ता अनुभव को बढ़ाने के लिए किया जाता है।
+हम उपयोगकर्ता की स्पष्ट सहमति के बिना व्यक्तिगत पहचान योग्य जानकारी तीसरे पक्ष के साथ साझा नहीं करते हैं।
 
-Collected data is used to deliver relevant news content, improve app functionality, and enhance the user experience.
-We do not share personally identifiable information with third parties without explicit user consent.
-Location Services:
+3. विश्लेषिकी:
+हम ऐप उपयोग पैटर्न के बारे में समग्र, गैर-व्यक्तिगत जानकारी इकट्ठा करने के लिए एनालिटिक्स टूल का उपयोग करते हैं। इससे हमें ऐप को अनुकूलित और बेहतर बनाने में मदद मिलती है।
+सुरक्षा:
 
-The app may request location permission to offer localized news content. User location data is anonymized and used solely for this purpose.
-Analytics:
+4. हम उपयोगकर्ता डेटा को अनधिकृत पहुंच, प्रकटीकरण या परिवर्तन से बचाने के लिए उद्योग-मानक सुरक्षा उपाय अपनाते हैं।
 
-We utilize analytics tools to gather aggregated, non-personal information about app usage patterns. This helps us optimize and enhance the app.
-Security:
+5. तृतीय-पक्ष लिंक:
+ऐप में तृतीय-पक्ष वेबसाइटों के लिंक हो सकते हैं। उपयोगकर्ताओं को इन बाहरी साइटों की गोपनीयता नीतियों की समीक्षा करने के लिए प्रोत्साहित किया जाता है, क्योंकि हम उनकी प्रथाओं को नियंत्रित या समर्थन नहीं करते हैं।
 
-We employ industry-standard security measures to protect user data from unauthorized access, disclosure, or alteration.
-Third-Party Links:
+6. अद्यतन और संचार:
+उपयोगकर्ताओं को ऐप सुविधाओं, समाचार हाइलाइट्स, या महत्वपूर्ण गोपनीयता नीति परिवर्तनों के बारे में समय-समय पर अपडेट या संचार प्राप्त हो सकता है।
 
-The app may contain links to third-party websites. Users are encouraged to review the privacy policies of these external sites, as we do not control or endorse their practices.
-Updates and Communication:
+7. बच्चों की गोपनीयता:
+ऐप 13 वर्ष से कम उम्र के बच्चों के लिए नहीं है। हम जानबूझकर बच्चों से व्यक्तिगत जानकारी एकत्र नहीं करते हैं।
 
-Users may receive occasional updates or communications about app features, news highlights, or important privacy policy changes.
-Opt-Out Options:
-
-Users have the option to opt out of data collection for personalized content and can manage their privacy preferences within the app settings.
-Children's Privacy:
-
-The app is not intended for children under the age of 13. We do not knowingly collect personal information from children.
-Policy Changes:
-
-Any updates or changes to the privacy policy will be communicated within the app. Users are advised to regularly review the policy for the latest information.
-By using the Android News App, users agree to the terms outlined in this privacy policy.
+8. नीति परिवर्तन:
+गोपनीयता नीति में कोई भी अपडेट या बदलाव ऐप के भीतर सूचित किया जाएगा। उपयोगकर्ताओं को नवीनतम जानकारी के लिए नियमित रूप से नीति की समीक्षा करने की सलाह दी जाती है।
+AAP विकी ऐप का उपयोग करके, उपयोगकर्ता इस गोपनीयता नीति में उल्लिखित शर्तों से सहमत होते हैं।

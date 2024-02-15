@@ -1,18 +1,13 @@
-# **Support**
+# **இணைக்கவும்**
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve experience.
-- **Rate:** Rate your experience on App/Play Stores.
-- **Share:** Share application with friends and family.
-- **Disclaimer:** Read about disclaimers for platform.
-- **Privacy:** Read about privacy for platform.
-- **Terms of Use:** Read about terms of use for platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- ** அடிக்கடி கேட்கப்படும் கேள்விகள் மற்றும் கோரிக்கைகள்:** 24x7 அடிக்கடி கேட்கப்படும் கேள்விகளுக்கான பதில்களைக் கண்டறியவும். நேரடி அரட்டை ஆதரவு அல்லது திறந்த ஆதரவு வழக்குகளைத் தொடர்பு கொள்ளவும்
+- **கருத்து:** அனுபவத்தை மேம்படுத்துவதற்கான பரிந்துரைகளுடன் உங்கள் கருத்தை வெளிப்படையாகப் பகிரவும்
+- **தன்னார்வத் தொண்டு:** நீங்கள் குழுவில் சேர விரும்பினால் எங்களைத் தொடர்பு கொள்ளவும்
+- **விகிதம்:** ஆப்/ப்ளே ஸ்டோர்களில் உங்கள் அனுபவத்தை மதிப்பிடுங்கள்
+- **பகிர்:** நண்பர்கள் மற்றும் குடும்பத்தினருடன் விண்ணப்பத்தைப் பகிரவும்
+- **சமூக ஊடகங்கள்:** உங்களுக்கு பிடித்த சமூக ஊடக சேனல்கள் மூலம் எங்களுடன் இணைய குறிப்பிட்ட சமூக ஊடக ஐகான்களை கிளிக் செய்யவும்
+- **தனியுரிமை:** தளத்திற்கான தனியுரிமை பற்றி படிக்கவும்
+- **பயன்பாட்டு விதிமுறைகள்:** தளத்திற்கான பயன்பாட்டு விதிமுறைகளைப் பற்றி படிக்கவும்
+- **துறப்பு:** தளத்திற்கான மறுப்புகளைப் பற்றி படிக்கவும்
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
-
+- **குறிப்பு:** வாடிக்கையாளர் ஆதரவுக் குழுவின் அறிவுறுத்தல்களுடன் மட்டுமே மேல் வலதுபுற ஆதரவு கருவிகள் பொத்தானைப் பயன்படுத்தவும்

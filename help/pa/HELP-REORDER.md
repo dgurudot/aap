@@ -1,6 +1,4 @@
-# **Reorder**
+# **ਮੁੜ ਆਰਡਰ**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- ਇਹ ਸੈਟਿੰਗ ਤੁਹਾਨੂੰ **ਮੇਨੂ ਦੇ ਕ੍ਰਮ ਨੂੰ ਵਿਵਸਥਿਤ ਕਰਨ** ਅਤੇ ਡਿਸਪਲੇ ਲਈ ਖਾਸ ਮੀਨੂ ਨੂੰ **ਯੋਗ ਜਾਂ ਅਯੋਗ** ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੀ ਹੈ
+- ਦੂਜੇ ਮੇਨੂ ਦੇ ਮੁਕਾਬਲੇ ਮੀਨੂ ਦੇ ਖਾਸ ਕ੍ਰਮ ਨੂੰ ਬਦਲਣ ਲਈ ਇੱਕ ਖਾਸ ਮੀਨੂ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਦਬਾਓ ਅਤੇ ਖਿੱਚੋ/ਡ੍ਰੌਪ ਕਰੋ

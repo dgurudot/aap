@@ -1,11 +1,11 @@
-## Full Disclaimer
+## పూర్తి నిరాకరణ
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+ఈ వెబ్‌సైట్‌లో ఉన్న సమాచారం సాధారణ సమాచార ప్రయోజనాల కోసం మాత్రమే. ప్రజా ఉపయోగం కోసం సముచితంగా పేర్కొన్న సమాచారం సూచనల నుండి సమాచారం తీసుకోబడింది మరియు మేము సమాచారాన్ని తాజాగా మరియు సరిగ్గా ఉంచడానికి ప్రయత్నిస్తున్నప్పుడు, మేము సంపూర్ణత, ఖచ్చితత్వం, విశ్వసనీయత, అనుకూలత గురించి ఏ విధమైన ప్రాతినిధ్యాలు లేదా హామీలు ఇవ్వము, వ్యక్తీకరించాము లేదా సూచించాము. లేదా ఏదైనా ప్రయోజనం కోసం వెబ్‌సైట్‌లో ఉన్న వెబ్‌సైట్ లేదా సమాచారం, ఉత్పత్తులు, సేవలు లేదా సంబంధిత గ్రాఫిక్‌లకు సంబంధించి లభ్యత. అటువంటి సమాచారంపై మీరు ఉంచే ఏదైనా రిలయన్స్ ఖచ్చితంగా మీ స్వంత పూచీతో ఉంటుంది.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+పరిమితి లేకుండా, పరోక్ష లేదా పర్యవసానంగా నష్టం లేదా నష్టం, లేదా ఈ వెబ్‌సైట్ వినియోగం వల్ల ఉత్పన్నమయ్యే డేటా లేదా లాభాల నష్టం వల్ల ఉత్పన్నమయ్యే ఏదైనా నష్టం లేదా నష్టంతో సహా ఎటువంటి నష్టం లేదా నష్టానికి మేము బాధ్యత వహించము. .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+ఈ వెబ్‌సైట్ ద్వారా మీరు మా నియంత్రణలో లేని ఇతర వెబ్‌సైట్‌లకు లింక్ చేయగలరు. ఆ సైట్‌ల స్వభావం, కంటెంట్ మరియు లభ్యతపై మాకు నియంత్రణ లేదు. ఏదైనా లింక్‌లను చేర్చడం తప్పనిసరిగా సిఫార్సును సూచించదు లేదా వాటిలో వ్యక్తీకరించబడిన అభిప్రాయాలను ఆమోదించదు.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+వెబ్‌సైట్‌ను సజావుగా కొనసాగించడానికి మరియు సజావుగా అమలు చేయడానికి ప్రతి ప్రయత్నం జరుగుతుంది. అయినప్పటికీ, మా నియంత్రణకు మించిన సాంకేతిక సమస్యల కారణంగా వెబ్‌సైట్ తాత్కాలికంగా అందుబాటులో ఉండకపోవడానికి మేము ఎటువంటి బాధ్యత వహించము మరియు బాధ్యత వహించము.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**గమనిక: మీరు ఏదైనా తప్పు/తప్పుడు సమాచారాన్ని కనుగొంటే, దయచేసి మమ్మల్ని సంప్రదించండి. సూచించిన సూచన నుండి సమాచారాన్ని నిర్దాక్షిణ్యంగా ధృవీకరించిన తర్వాత దిద్దుబాట్లు చేయడానికి మేము సంతోషిస్తున్నాము**

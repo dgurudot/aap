@@ -1,4 +1,4 @@
-# **Calendar**
+# **കലണ്ടർ**
 
-- List all main events of AAP. Example: Rallies, Court Cases, Major Announcements/Events.
-- Scroll down on list to view all events for a specific month.
+- **എഎപിയുടെ എല്ലാ പ്രധാന പരിപാടികളും ലിസ്റ്റുചെയ്യുന്നു**. ഉദാഹരണം: റാലികൾ, കോടതി കേസുകൾ, പ്രധാന പ്രഖ്യാപനങ്ങൾ/സംഭവങ്ങൾ
+- ഒരു നിർദ്ദിഷ്‌ട മാസത്തേക്കുള്ള എല്ലാ ഇവൻ്റുകളും കാണുന്നതിന് ലിസ്റ്റിൽ ** താഴേക്ക് സ്ക്രോൾ ചെയ്യുക**

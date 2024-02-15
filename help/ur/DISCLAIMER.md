@@ -1,11 +1,11 @@
-## Full Disclaimer
+## مکمل ڈس کلیمر
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+اس ویب سائٹ میں موجود معلومات صرف عام معلومات کے مقاصد کے لیے ہیں۔ معلومات عوامی استعمال کے لیے معلومات کے صحیح ذکر کردہ حوالہ جات سے اخذ کی گئی ہیں اور جب کہ ہم معلومات کو تازہ ترین اور درست رکھنے کی کوشش کرتے ہیں، ہم مکمل، درستگی، وشوسنییتا، مناسبیت کے بارے میں کسی بھی قسم کی، واضح یا مضمر کوئی نمائندگی یا ضمانت نہیں دیتے۔ یا ویب سائٹ کے حوالے سے دستیابی یا کسی بھی مقصد کے لیے ویب سائٹ پر موجود معلومات، مصنوعات، خدمات، یا متعلقہ گرافکس۔ اس طرح کی معلومات پر آپ جو بھی انحصار کرتے ہیں وہ آپ کے اپنے خطرے پر ہے۔
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+کسی بھی صورت میں ہم کسی بھی نقصان یا نقصان کے ذمہ دار نہیں ہوں گے بشمول بغیر کسی حد کے، بالواسطہ یا نتیجہ خیز نقصان یا نقصان، یا اس ویب سائٹ کے استعمال سے پیدا ہونے والے ڈیٹا یا منافع کے نقصان سے پیدا ہونے والے کسی بھی نقصان یا نقصان .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+اس ویب سائٹ کے ذریعے آپ دوسری ویب سائٹس سے لنک کر سکتے ہیں جو ہمارے کنٹرول میں نہیں ہیں۔ ان سائٹس کی نوعیت، مواد اور دستیابی پر ہمارا کوئی کنٹرول نہیں ہے۔ کسی بھی لنک کو شامل کرنا ضروری نہیں ہے کہ وہ سفارش یا ان کے اندر بیان کردہ خیالات کی توثیق کرے۔
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+ویب سائٹ کو چلانے اور آسانی سے چلانے کے لیے ہر ممکن کوشش کی جاتی ہے۔ تاہم، ہم ویب سائٹ کے عارضی طور پر دستیاب نہ ہونے کی وجہ سے ہمارے کنٹرول سے باہر تکنیکی مسائل کی وجہ سے اس کے لیے کوئی ذمہ داری نہیں لیتے ہیں اور نہ ہی اس کے لیے ذمہ دار ہوں گے۔
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**نوٹ: اگر آپ کو کوئی غلطی/غلط معلومات ملتی ہیں، تو براہ کرم ہم سے رابطہ کریں۔ ہم تجویز کردہ حوالہ سے معلومات کی درست طریقے سے تصدیق کرنے کے بعد تصحیح کرنے پر خوش ہیں**

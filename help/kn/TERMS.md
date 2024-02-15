@@ -1,34 +1,34 @@
-## Terms and Conditions
+## ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳು
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+ಈ AAP ವಿಕಿ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ, ಸ್ಥಾಪಿಸುವ ಅಥವಾ ಬಳಸುವ ಮೂಲಕ, ಈ ಬಳಕೆಯ ನಿಯಮಗಳಿಗೆ ಬದ್ಧವಾಗಿರಲು ನೀವು ಒಪ್ಪುತ್ತೀರಿ.
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. ವಿಷಯ ಬಳಕೆ:
+ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಒದಗಿಸಲಾದ ವಿಕಿ ವಿಷಯವು ವೈಯಕ್ತಿಕ, ವಾಣಿಜ್ಯೇತರ ಬಳಕೆಗಾಗಿ. ಸ್ಪಷ್ಟ ಅನುಮತಿಯಿಲ್ಲದೆ ವಿಷಯವನ್ನು ಪುನರುತ್ಪಾದಿಸಲು, ವಿತರಿಸಲು ಅಥವಾ ಮಾರ್ಪಡಿಸಲು ಬಳಕೆದಾರರಿಗೆ ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ.
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. ಬಳಕೆದಾರ ನಡವಳಿಕೆ:
+ಬಳಕೆದಾರರು ಅನ್ವಯವಾಗುವ ಕಾನೂನುಗಳು ಮತ್ತು ನಿಬಂಧನೆಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಬಳಸಬೇಕು. ಯಾವುದೇ ನಿಂದನೀಯ, ಕಾನೂನುಬಾಹಿರ ಅಥವಾ ಅಡ್ಡಿಪಡಿಸುವ ನಡವಳಿಕೆಯನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ನಿಷೇಧಿಸಲಾಗಿದೆ.
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. ಖಾತೆ ಮಾಹಿತಿ:
+ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಬಳಕೆದಾರರ ನೋಂದಣಿ ಅಗತ್ಯವಿದ್ದರೆ, ಬಳಕೆದಾರರು ತಮ್ಮ ಖಾತೆಯ ಮಾಹಿತಿಯ ಗೌಪ್ಯತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊಂದಿರುತ್ತಾರೆ. ಅವರ ಖಾತೆಯ ಅಡಿಯಲ್ಲಿ ನಡೆಸುವ ಯಾವುದೇ ಕ್ರಮಗಳು ಅವರ ಸಂಪೂರ್ಣ ಜವಾಬ್ದಾರಿಯಾಗಿದೆ.
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. ಅನ್ವಯವಾಗುವ ಕಾನೂನುಗಳು:
+ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವಾಗ ಎಲ್ಲಾ ಸ್ಥಳೀಯ, ರಾಜ್ಯ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಕಾನೂನುಗಳನ್ನು ಅನುಸರಿಸಲು ಬಳಕೆದಾರರು ಒಪ್ಪುತ್ತಾರೆ. ಯಾವುದೇ ಉಲ್ಲಂಘನೆಯು ಬಳಕೆದಾರರ ಪ್ರವೇಶದ ಮುಕ್ತಾಯಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು.
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. ಬೌದ್ಧಿಕ ಆಸ್ತಿ:
+ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಅದರ ವಿಷಯವನ್ನು ಬೌದ್ಧಿಕ ಆಸ್ತಿ ಕಾನೂನುಗಳಿಂದ ರಕ್ಷಿಸಲಾಗಿದೆ. ಹಕ್ಕುಸ್ವಾಮ್ಯಗಳು, ಟ್ರೇಡ್‌ಮಾರ್ಕ್‌ಗಳು ಅಥವಾ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಇತರ ಹಕ್ಕುಗಳನ್ನು ಉಲ್ಲಂಘಿಸದಿರಲು ಬಳಕೆದಾರರು ಒಪ್ಪುತ್ತಾರೆ.
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಲಿಂಕ್‌ಗಳು:
+ಅಪ್ಲಿಕೇಶನ್ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರಬಹುದು. ಈ ಲಿಂಕ್‌ಗಳನ್ನು ಅನುಕೂಲಕ್ಕಾಗಿ ಒದಗಿಸಲಾಗಿದೆ ಎಂದು ಬಳಕೆದಾರರು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತಾರೆ ಮತ್ತು ನಾವು ಬಾಹ್ಯ ಸೈಟ್‌ಗಳಲ್ಲಿನ ವಿಷಯವನ್ನು ಅನುಮೋದಿಸುವುದಿಲ್ಲ ಅಥವಾ ನಿಯಂತ್ರಿಸುವುದಿಲ್ಲ.
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. ವಾರಂಟಿ ಹಕ್ಕು ನಿರಾಕರಣೆ:
+ಯಾವುದೇ ವಾರಂಟಿಗಳಿಲ್ಲದೆ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು "ಇರುವಂತೆ" ಒದಗಿಸಲಾಗಿದೆ. AAP ವಿಕಿ ವಿಷಯದ ನಿಖರತೆ, ಸಂಪೂರ್ಣತೆ ಅಥವಾ ವಿಶ್ವಾಸಾರ್ಹತೆಯನ್ನು ನಾವು ಖಾತರಿಪಡಿಸುವುದಿಲ್ಲ.
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. ಹೊಣೆಗಾರಿಕೆಯ ಮಿತಿ:
+ಯಾವುದೇ ಸಂದರ್ಭದಲ್ಲಿ ಅಪ್ಲಿಕೇಶನ್ ಡೆವಲಪರ್‌ಗಳು ಅಥವಾ ಸಂಬಂಧಿತ ಪಕ್ಷಗಳು ಅಪ್ಲಿಕೇಶನ್‌ನ ಬಳಕೆಯಿಂದ ಉಂಟಾಗುವ ಯಾವುದೇ ನೇರ, ಪರೋಕ್ಷ, ಪ್ರಾಸಂಗಿಕ, ಪರಿಣಾಮವಾಗಿ ಅಥವಾ ದಂಡನೀಯ ಹಾನಿಗಳಿಗೆ ಜವಾಬ್ದಾರರಾಗಿರುವುದಿಲ್ಲ.
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. ಪ್ರವೇಶದ ಮುಕ್ತಾಯ:
+ಈ ನಿಯಮಗಳ ಉಲ್ಲಂಘನೆ ಸೇರಿದಂತೆ ಯಾವುದೇ ಕಾರಣಕ್ಕಾಗಿ ಯಾವುದೇ ಸೂಚನೆಯಿಲ್ಲದೆ ನಮ್ಮ ವಿವೇಚನೆಯಿಂದ ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ಬಳಕೆದಾರರ ಪ್ರವೇಶವನ್ನು ಕೊನೆಗೊಳಿಸುವ ಹಕ್ಕನ್ನು ನಾವು ಕಾಯ್ದಿರಿಸಿದ್ದೇವೆ.
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. ನಿಯಮಗಳಿಗೆ ನವೀಕರಣಗಳು:
+ಈ ನಿಯಮಗಳನ್ನು ಪೂರ್ವ ಸೂಚನೆ ಇಲ್ಲದೆ ನವೀಕರಿಸಬಹುದು. ಯಾವುದೇ ಬದಲಾವಣೆಗಳಿಗಾಗಿ ನಿಯಮಿತವಾಗಿ ನಿಯಮಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಬಳಕೆದಾರರನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಲಾಗುತ್ತದೆ.
+AAP ವಿಕಿ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವ ಮೂಲಕ, ಬಳಕೆದಾರರು ಈ ಬಳಕೆಯ ನಿಯಮಗಳನ್ನು ಅಂಗೀಕರಿಸುತ್ತಾರೆ ಮತ್ತು ಸಮ್ಮತಿಸುತ್ತಾರೆ. ನೀವು ಈ ನಿಯಮಗಳನ್ನು ಒಪ್ಪದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವುದನ್ನು ತಡೆಯಿರಿ.

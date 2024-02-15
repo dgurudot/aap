@@ -1,28 +1,28 @@
-## Privacy and data processing policy
+## ಗೌಪ್ಯತೆ ಮತ್ತು ಡೇಟಾ ಪ್ರಕ್ರಿಯೆ ನೀತಿ
 
-1. Information Collection:
-We collect basic user information such as device type, language/category preferences, theme for a personalized AAP Wiki experience.
-User-provided data, like saved preferences is stored locally on the device. Bookmarks are stored on AAP Wiki cloud and synced across devices for user.
+1. ಮಾಹಿತಿ ಸಂಗ್ರಹ:
+ವೈಯಕ್ತಿಕಗೊಳಿಸಿದ AAP ವಿಕಿ ಅನುಭವಕ್ಕಾಗಿ ಸಾಧನದ ಪ್ರಕಾರ, ಭಾಷೆ/ವರ್ಗದ ಆದ್ಯತೆಗಳು, ಥೀಮ್‌ನಂತಹ ಮೂಲಭೂತ ಬಳಕೆದಾರರ ಮಾಹಿತಿಯನ್ನು ನಾವು ಸಂಗ್ರಹಿಸುತ್ತೇವೆ.
+ಬಳಕೆದಾರರು ಒದಗಿಸಿದ ಡೇಟಾ, ಉಳಿಸಿದ ಪ್ರಾಶಸ್ತ್ಯಗಳಂತಹ ಡೇಟಾವನ್ನು ಸಾಧನದಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ. ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು AAP ವಿಕಿ ಕ್ಲೌಡ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಬಳಕೆದಾರರಿಗಾಗಿ ಸಾಧನಗಳಾದ್ಯಂತ ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತದೆ.
 
-2. Data Usage:
-Collected data is used to deliver relevant article content, improve app functionality, and enhance the user experience.
-We do not share personally identifiable information with third parties without explicit user consent.
+2. ಡೇಟಾ ಬಳಕೆ:
+ಸಂಬಂಧಿತ ಲೇಖನದ ವಿಷಯವನ್ನು ತಲುಪಿಸಲು, ಅಪ್ಲಿಕೇಶನ್ ಕಾರ್ಯವನ್ನು ಸುಧಾರಿಸಲು ಮತ್ತು ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ಹೆಚ್ಚಿಸಲು ಸಂಗ್ರಹಿಸಿದ ಡೇಟಾವನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.
+ಸ್ಪಷ್ಟ ಬಳಕೆದಾರ ಸಮ್ಮತಿಯಿಲ್ಲದೆ ನಾವು ವೈಯಕ್ತಿಕವಾಗಿ ಗುರುತಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಮೂರನೇ ವ್ಯಕ್ತಿಗಳೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲ.
 
-3. Analytics:
-We utilize analytics tools to gather aggregated, non-personal information about app usage patterns. This helps us optimize and enhance the app.
-Security:
+3. ವಿಶ್ಲೇಷಣೆ:
+ಅಪ್ಲಿಕೇಶನ್ ಬಳಕೆಯ ಮಾದರಿಗಳ ಕುರಿತು ಒಟ್ಟುಗೂಡಿದ, ವೈಯಕ್ತಿಕವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲು ನಾವು ವಿಶ್ಲೇಷಣಾ ಸಾಧನಗಳನ್ನು ಬಳಸುತ್ತೇವೆ. ಇದು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲು ಮತ್ತು ವರ್ಧಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+ಭದ್ರತೆ:
 
-4. We employ industry-standard security measures to protect user data from unauthorized access, disclosure, or alteration.
+4. ಅನಧಿಕೃತ ಪ್ರವೇಶ, ಬಹಿರಂಗಪಡಿಸುವಿಕೆ ಅಥವಾ ಬದಲಾವಣೆಯಿಂದ ಬಳಕೆದಾರರ ಡೇಟಾವನ್ನು ರಕ್ಷಿಸಲು ನಾವು ಉದ್ಯಮ-ಪ್ರಮಾಣಿತ ಭದ್ರತಾ ಕ್ರಮಗಳನ್ನು ಬಳಸುತ್ತೇವೆ.
 
-5. Third-Party Links:
-The app may contain links to third-party websites. Users are encouraged to review the privacy policies of these external sites, as we do not control or endorse their practices.
+5. ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಲಿಂಕ್‌ಗಳು:
+ಅಪ್ಲಿಕೇಶನ್ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರಬಹುದು. ಈ ಬಾಹ್ಯ ಸೈಟ್‌ಗಳ ಗೌಪ್ಯತೆ ನೀತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಬಳಕೆದಾರರನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಲಾಗುತ್ತದೆ, ಏಕೆಂದರೆ ನಾವು ಅವರ ಅಭ್ಯಾಸಗಳನ್ನು ನಿಯಂತ್ರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಅನುಮೋದಿಸುವುದಿಲ್ಲ.
 
-6. Updates and Communication:
-Users may receive occasional updates or communications about app features, news highlights, or important privacy policy changes.
+6. ನವೀಕರಣಗಳು ಮತ್ತು ಸಂವಹನ:
+ಅಪ್ಲಿಕೇಶನ್ ವೈಶಿಷ್ಟ್ಯಗಳು, ಸುದ್ದಿ ಮುಖ್ಯಾಂಶಗಳು ಅಥವಾ ಪ್ರಮುಖ ಗೌಪ್ಯತೆ ನೀತಿ ಬದಲಾವಣೆಗಳ ಕುರಿತು ಬಳಕೆದಾರರು ಸಾಂದರ್ಭಿಕ ನವೀಕರಣಗಳು ಅಥವಾ ಸಂವಹನಗಳನ್ನು ಸ್ವೀಕರಿಸಬಹುದು.
 
-7. Children's Privacy:
-The app is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+7. ಮಕ್ಕಳ ಗೌಪ್ಯತೆ:
+ಅಪ್ಲಿಕೇಶನ್ 13 ವರ್ಷದೊಳಗಿನ ಮಕ್ಕಳಿಗಾಗಿ ಉದ್ದೇಶಿಸಿಲ್ಲ. ನಾವು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಮಕ್ಕಳಿಂದ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ.
 
-8. Policy Changes:
-Any updates or changes to the privacy policy will be communicated within the app. Users are advised to regularly review the policy for the latest information.
-By using the AAP Wiki App, users agree to the terms outlined in this privacy policy.
+8. ನೀತಿ ಬದಲಾವಣೆಗಳು:
+ಗೌಪ್ಯತೆ ನೀತಿಗೆ ಯಾವುದೇ ನವೀಕರಣಗಳು ಅಥವಾ ಬದಲಾವಣೆಗಳನ್ನು ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ತಿಳಿಸಲಾಗುತ್ತದೆ. ಇತ್ತೀಚಿನ ಮಾಹಿತಿಗಾಗಿ ನೀತಿಯನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಲು ಬಳಕೆದಾರರಿಗೆ ಸಲಹೆ ನೀಡಲಾಗುತ್ತದೆ.
+AAP ವಿಕಿ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸುವ ಮೂಲಕ, ಬಳಕೆದಾರರು ಈ ಗೌಪ್ಯತೆ ನೀತಿಯಲ್ಲಿ ವಿವರಿಸಿರುವ ನಿಯಮಗಳನ್ನು ಒಪ್ಪುತ್ತಾರೆ.

@@ -1,6 +1,4 @@
-# **Reorder**
+# **পুনঃক্রম**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- এই সেটিং আপনাকে **মেনুর ক্রম সামঞ্জস্য করতে** এবং প্রদর্শনের জন্য নির্দিষ্ট মেনু **সক্ষম বা অক্ষম** করতে দেয়
+- অন্যান্য মেনুর তুলনায় মেনুর নির্দিষ্ট ক্রম পরিবর্তন করতে একটি নির্দিষ্ট মেনুকে দীর্ঘক্ষণ প্রেস করুন এবং টেনে আনুন

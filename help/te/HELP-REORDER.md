@@ -1,6 +1,4 @@
-# **Reorder**
+# **మళ్లీ క్రమం**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- ఈ సెట్టింగ్ మిమ్మల్ని **మెనూ యొక్క క్రమాన్ని సర్దుబాటు చేయడానికి** మరియు **ప్రదర్శన కోసం నిర్దిష్ట మెనుని ఎనేబుల్ లేదా డిసేబుల్** చేయడానికి అనుమతిస్తుంది
+- ఇతర మెనూలకు సంబంధించి మెనూ యొక్క నిర్దిష్ట క్రమాన్ని మార్చడానికి నిర్దిష్ట మెనుని ఎక్కువసేపు నొక్కి, లాగండి/వదలండి

@@ -1,34 +1,34 @@
-## Terms and Conditions
+## ସର୍ତ୍ତାବଳୀ
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+ଏହି AAP ୱିକି ଆପ୍ ଡାଉନଲୋଡ୍, ସଂସ୍ଥାପନ କିମ୍ବା ବ୍ୟବହାର କରି, ଆପଣ ଏହି ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ ପାଳନ କରିବାକୁ ରାଜି ହୁଅନ୍ତି |
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. ବିଷୟବସ୍ତୁ ବ୍ୟବହାର:
+ଆପରେ ପ୍ରଦାନ କରାଯାଇଥିବା ୱିକି ବିଷୟବସ୍ତୁ ବ୍ୟକ୍ତିଗତ, ଅଣ-ବ୍ୟବସାୟିକ ବ୍ୟବହାର ପାଇଁ | ଉପଭୋକ୍ତାମାନଙ୍କୁ ସ୍ପଷ୍ଟ ଅନୁମତି ବିନା ବିଷୟବସ୍ତୁର ପୁନ oduc ପ୍ରକାଶନ, ବଣ୍ଟନ କିମ୍ବା ପରିବର୍ତ୍ତନ କରିବାକୁ ଅନୁମତି ନାହିଁ |
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. ବ୍ୟବହାରକାରୀ ଆଚରଣ:
+ଉପଯୋଗକର୍ତ୍ତାଗଣ ପ୍ରଯୁଜ୍ୟ ନିୟମ ଏବଂ ନିୟମାବଳୀ ସହିତ ଅନୁରୂପ a ଙ୍ଗରେ ଆପ୍ ବ୍ୟବହାର କରିବା ଜରୁରୀ | ଯେକ Any ଣସି ଅପମାନଜନକ, ବେଆଇନ୍ କିମ୍ବା ବ୍ୟାଘାତକାରୀ ଆଚରଣ କଠୋର ନିଷେଧ |
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. ଖାତା ସୂଚନା:
+ଯଦି ଆପ୍ ଉପଭୋକ୍ତା ପଞ୍ଜିକରଣ ଆବଶ୍ୟକ କରେ, ଉପଭୋକ୍ତାମାନେ ସେମାନଙ୍କର ଆକାଉଣ୍ଟ୍ ସୂଚନାର ଗୋପନୀୟତା ବଜାୟ ରଖିବା ପାଇଁ ଦାୟୀ ଅଟନ୍ତି | ସେମାନଙ୍କ ଆକାଉଣ୍ଟ ଅଧୀନରେ କରାଯାଇଥିବା କ actions ଣସି କାର୍ଯ୍ୟ ହେଉଛି ସେମାନଙ୍କର ଏକମାତ୍ର ଦାୟିତ୍। |
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. ପ୍ରଯୁଜ୍ୟ ନିୟମ:
+ଆପ୍ ବ୍ୟବହାର କରିବାବେଳେ ଉପଭୋକ୍ତାମାନେ ସମସ୍ତ ସ୍ଥାନୀୟ, ରାଜ୍ୟ ଏବଂ ଜାତୀୟ ନିୟମ ମାନିବାକୁ ରାଜି ହୁଅନ୍ତି | ଯେକ Any ଣସି ଉଲ୍ଲଂଘନ ଉପଭୋକ୍ତା ପ୍ରବେଶକୁ ସମାପ୍ତ କରିପାରେ |
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. ବ Intell ଦ୍ଧିକ ଗୁଣ:
+ଆପ୍ ଏବଂ ଏହାର ବିଷୟବସ୍ତୁ ବ intellectual ଦ୍ଧିକ ସମ୍ପତ୍ତି ନିୟମ ଦ୍ୱାରା ସୁରକ୍ଷିତ | ଉପଭୋକ୍ତାମାନେ କପିରାଇଟ୍, ଟ୍ରେଡ୍ ମାର୍କ କିମ୍ବା ଆପ୍ ସହିତ ଜଡିତ ଅନ୍ୟ କ rights ଣସି ଅଧିକାରକୁ ଉଲ୍ଲଂଘନ ନକରିବାକୁ ରାଜି ହୋଇଛନ୍ତି।
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. ତୃତୀୟ-ପକ୍ଷ ଲିଙ୍କ୍:
+ଆପ୍ ତୃତୀୟ-ପକ୍ଷ ୱେବସାଇଟ୍ ସହିତ ଲିଙ୍କ୍ ଧାରଣ କରିପାରେ | ଉପଭୋକ୍ତାମାନେ ସ୍ that ୀକାର କରନ୍ତି ଯେ ସୁବିଧା ପାଇଁ ଏହି ଲିଙ୍କଗୁଡିକ ପ୍ରଦାନ କରାଯାଇଛି, ଏବଂ ଆମେ ବାହ୍ୟ ସାଇଟରେ ଥିବା ବିଷୟବସ୍ତୁକୁ ସମର୍ଥନ କରୁନାହୁଁ କିମ୍ବା ନିୟନ୍ତ୍ରଣ କରୁନାହୁଁ |
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. ୱାରେଣ୍ଟିର ପ୍ରତ୍ୟାଖ୍ୟାନ:
+କ any ଣସି ୱାରେଣ୍ଟି ବିନା ଆପ୍ “ଯେପରି” ପ୍ରଦାନ କରାଯାଇଛି | ଆମେ AAP ୱିକି ବିଷୟବସ୍ତୁର ସଠିକତା, ସମ୍ପୂର୍ଣ୍ଣତା, କିମ୍ବା ନିର୍ଭରଯୋଗ୍ୟତାକୁ ଗ୍ୟାରେଣ୍ଟି ଦେଉନାହୁଁ |
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. ଦାୟିତ୍ Lim ର ସୀମା:
+କ event ଣସି ଘଟଣାରେ ଆପ୍ ବିକାଶକାରୀ କିମ୍ବା ସଂପୃକ୍ତ ଦଳ କ any ଣସି ପ୍ରତ୍ୟକ୍ଷ, ପରୋକ୍ଷ, ଘଟଣା, ପରିଣାମ କିମ୍ବା ଦଣ୍ଡନୀୟ କ୍ଷତି ପାଇଁ ଦାୟୀ ରହିବେ ନାହିଁ |
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. ପ୍ରବେଶର ସମାପ୍ତି:
+ଏହି ସର୍ତ୍ତଗୁଡିକର ଉଲ୍ଲଂଘନ ସହିତ କ reason ଣସି କାରଣରୁ ବିନା ବିଜ୍ notice ପ୍ତିରେ, ଆପକୁ ବ୍ୟବହାରକାରୀଙ୍କ ପ୍ରବେଶକୁ ବନ୍ଦ କରିବାର ଅଧିକାର ଆମେ ସଂରକ୍ଷିତ |
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. ସର୍ତ୍ତାବଳୀକୁ ଅଦ୍ୟତନ:
+ପୂର୍ବ ସର୍ତ୍ତାବଳୀ ବିନା ଏହି ସର୍ତ୍ତାବଳୀ ଅପଡେଟ୍ ହୋଇପାରେ | ଯେକ any ଣସି ପରିବର୍ତ୍ତନ ପାଇଁ ନିୟମିତ ଭାବରେ ସର୍ତ୍ତାବଳୀ ସମୀକ୍ଷା କରିବାକୁ ଉପଭୋକ୍ତାମାନଙ୍କୁ ଉତ୍ସାହିତ କରାଯାଏ |
+AAP ୱିକି ଆପ୍ ବ୍ୟବହାର କରି, ଉପଭୋକ୍ତାମାନେ ଏହି ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀକୁ ସ୍ୱୀକାର କରନ୍ତି ଏବଂ ରାଜି ହୁଅନ୍ତି | ଯଦି ଆପଣ ଏହି ସର୍ତ୍ତାବଳୀ ସହିତ ସହମତ ନୁହଁନ୍ତି, ଦୟାକରି ଆପ୍ ବ୍ୟବହାର କରିବାକୁ ବାରଣ କରନ୍ତୁ |

@@ -1,28 +1,28 @@
-## Privacy and data processing policy
+## ਗੋਪਨੀਯਤਾ ਅਤੇ ਡੇਟਾ ਪ੍ਰੋਸੈਸਿੰਗ ਨੀਤੀ
 
-1. Information Collection:
-We collect basic user information such as device type, language/category preferences, theme for a personalized AAP Wiki experience.
-User-provided data, like saved preferences is stored locally on the device. Bookmarks are stored on AAP Wiki cloud and synced across devices for user.
+1. ਜਾਣਕਾਰੀ ਸੰਗ੍ਰਹਿ:
+ਅਸੀਂ ਇੱਕ ਵਿਅਕਤੀਗਤ AAP ਵਿਕੀ ਅਨੁਭਵ ਲਈ ਮੂਲ ਉਪਭੋਗਤਾ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਕਿ ਡਿਵਾਈਸ ਕਿਸਮ, ਭਾਸ਼ਾ/ਸ਼੍ਰੇਣੀ ਤਰਜੀਹਾਂ, ਥੀਮ ਇਕੱਠੀ ਕਰਦੇ ਹਾਂ।
+ਉਪਭੋਗਤਾ ਦੁਆਰਾ ਪ੍ਰਦਾਨ ਕੀਤਾ ਗਿਆ ਡੇਟਾ, ਜਿਵੇਂ ਕਿ ਸੁਰੱਖਿਅਤ ਕੀਤੀਆਂ ਤਰਜੀਹਾਂ ਨੂੰ ਡਿਵਾਈਸ 'ਤੇ ਸਥਾਨਕ ਤੌਰ 'ਤੇ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਬੁੱਕਮਾਰਕਸ AAP ਵਿਕੀ ਕਲਾਉਡ 'ਤੇ ਸਟੋਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ ਅਤੇ ਉਪਭੋਗਤਾ ਲਈ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕੀਤੇ ਜਾਂਦੇ ਹਨ।
 
-2. Data Usage:
-Collected data is used to deliver relevant article content, improve app functionality, and enhance the user experience.
-We do not share personally identifiable information with third parties without explicit user consent.
+2. ਡਾਟਾ ਵਰਤੋਂ:
+ਇਕੱਤਰ ਕੀਤੇ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਸੰਬੰਧਿਤ ਲੇਖ ਸਮੱਗਰੀ ਪ੍ਰਦਾਨ ਕਰਨ, ਐਪ ਕਾਰਜਕੁਸ਼ਲਤਾ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਅਤੇ ਉਪਭੋਗਤਾ ਅਨੁਭਵ ਨੂੰ ਵਧਾਉਣ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+ਅਸੀਂ ਸਪੱਸ਼ਟ ਉਪਭੋਗਤਾ ਦੀ ਸਹਿਮਤੀ ਤੋਂ ਬਿਨਾਂ ਤੀਜੀ ਧਿਰ ਨਾਲ ਨਿੱਜੀ ਤੌਰ 'ਤੇ ਪਛਾਣਯੋਗ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।
 
-3. Analytics:
-We utilize analytics tools to gather aggregated, non-personal information about app usage patterns. This helps us optimize and enhance the app.
-Security:
+3. ਵਿਸ਼ਲੇਸ਼ਣ:
+ਅਸੀਂ ਐਪ ਵਰਤੋਂ ਦੇ ਪੈਟਰਨਾਂ ਬਾਰੇ ਸਮੁੱਚੀ, ਗੈਰ-ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰਨ ਲਈ ਵਿਸ਼ਲੇਸ਼ਣ ਸਾਧਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ। ਇਹ ਐਪ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਅਤੇ ਵਧਾਉਣ ਵਿੱਚ ਸਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ।
+ਸੁਰੱਖਿਆ:
 
-4. We employ industry-standard security measures to protect user data from unauthorized access, disclosure, or alteration.
+4. ਅਸੀਂ ਉਪਭੋਗਤਾ ਡੇਟਾ ਨੂੰ ਅਣਅਧਿਕਾਰਤ ਪਹੁੰਚ, ਖੁਲਾਸੇ, ਜਾਂ ਤਬਦੀਲੀ ਤੋਂ ਬਚਾਉਣ ਲਈ ਉਦਯੋਗ-ਮਿਆਰੀ ਸੁਰੱਖਿਆ ਉਪਾਅ ਵਰਤਦੇ ਹਾਂ।
 
-5. Third-Party Links:
-The app may contain links to third-party websites. Users are encouraged to review the privacy policies of these external sites, as we do not control or endorse their practices.
+5. ਤੀਜੀ-ਧਿਰ ਦੇ ਲਿੰਕ:
+ਐਪ ਵਿੱਚ ਤੀਜੀ-ਧਿਰ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਲਿੰਕ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹਨ। ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਇਹਨਾਂ ਬਾਹਰੀ ਸਾਈਟਾਂ ਦੀਆਂ ਗੋਪਨੀਯਤਾ ਨੀਤੀਆਂ ਦੀ ਸਮੀਖਿਆ ਕਰਨ ਲਈ ਉਤਸ਼ਾਹਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਕਿਉਂਕਿ ਅਸੀਂ ਉਹਨਾਂ ਦੇ ਅਭਿਆਸਾਂ ਨੂੰ ਨਿਯੰਤਰਿਤ ਜਾਂ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।
 
-6. Updates and Communication:
-Users may receive occasional updates or communications about app features, news highlights, or important privacy policy changes.
+6. ਅੱਪਡੇਟ ਅਤੇ ਸੰਚਾਰ:
+ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਐਪ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ, ਖਬਰਾਂ ਦੀਆਂ ਹਾਈਲਾਈਟਾਂ, ਜਾਂ ਮਹੱਤਵਪੂਰਨ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਕਦੇ-ਕਦਾਈਂ ਅੱਪਡੇਟ ਜਾਂ ਸੰਚਾਰ ਪ੍ਰਾਪਤ ਹੋ ਸਕਦੇ ਹਨ।
 
-7. Children's Privacy:
-The app is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+7. ਬੱਚਿਆਂ ਦੀ ਗੋਪਨੀਯਤਾ:
+ਐਪ 13 ਸਾਲ ਤੋਂ ਘੱਟ ਉਮਰ ਦੇ ਬੱਚਿਆਂ ਲਈ ਨਹੀਂ ਹੈ। ਅਸੀਂ ਜਾਣਬੁੱਝ ਕੇ ਬੱਚਿਆਂ ਤੋਂ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।
 
-8. Policy Changes:
-Any updates or changes to the privacy policy will be communicated within the app. Users are advised to regularly review the policy for the latest information.
-By using the AAP Wiki App, users agree to the terms outlined in this privacy policy.
+8. ਨੀਤੀ ਬਦਲਾਅ:
+ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਕੋਈ ਵੀ ਅੱਪਡੇਟ ਜਾਂ ਬਦਲਾਅ ਐਪ ਦੇ ਅੰਦਰ ਹੀ ਸੂਚਿਤ ਕੀਤੇ ਜਾਣਗੇ। ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਨਵੀਨਤਮ ਜਾਣਕਾਰੀ ਲਈ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਨੀਤੀ ਦੀ ਸਮੀਖਿਆ ਕਰਨ ਦੀ ਸਲਾਹ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।
+AAP ਵਿਕੀ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਉਪਭੋਗਤਾ ਇਸ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਵਿੱਚ ਦਰਸਾਏ ਗਏ ਨਿਯਮਾਂ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹਨ।

@@ -1,4 +1,4 @@
-# **Calendar**
+# **நாட்காட்டி**
 
-- List all main events of AAP. Example: Rallies, Court Cases, Major Announcements/Events.
-- Scroll down on list to view all events for a specific month.
+- **AAP இன் அனைத்து முக்கிய நிகழ்வுகளையும் பட்டியலிடுகிறது**. எடுத்துக்காட்டு: பேரணிகள், நீதிமன்ற வழக்குகள், முக்கிய அறிவிப்புகள்/நிகழ்வுகள்
+- ஒரு குறிப்பிட்ட மாதத்திற்கான அனைத்து நிகழ்வுகளையும் காண பட்டியலில் **கீழே உருட்டவும்**

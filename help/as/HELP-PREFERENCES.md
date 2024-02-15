@@ -1,11 +1,7 @@
-# **Preferences**
-   
-Kindly use the following options to update user preferences 
-- **Email**: Logged-in account Email address. Cannot be changed and used for support.
-- **Name, Phone**: Cannot be changed from the application. Contact Support if you would like it to be updated.
-- **Theme**: Allows you to select "Dark", and "Light" or automatically choose based on the "System" theme.
-- **Language**: Allows you to choose a specific language. Please note that certain interfaces will still be in English.
-- **Use Face/Touch ID**: Allows you to log in to the application using the device's Face or Touch ID.
-- **Devices**: View account login history based on time and IP address and location (if available).
-- **Account Update**: Allows you to delete your account. 
-  -  Kindly reach us at [wiki.aap@gmail.com](mailto:wiki.aap@gmail.com) if you want account to be permanently deleted. 
+# **ছেটিংছ**
+
+ব্যৱহাৰকাৰীৰ পছন্দসমূহ আপডেইট কৰিবলৈ নিম্নলিখিত বিকল্পসমূহ ব্যৱহাৰ কৰক
+- **থিম**: আপনি "ডার্ক", এবং "পোহৰ" নির্বাচন কৰাৰ অনুমতি দিয়ে বা স্বয়ংক্রিয়ভাৱে "চিস্টেম" থিম উপর ভিত্তি করে নির্বাচন করে
+- **ভাষা**: আপোনাক এটা নিৰ্দিষ্ট ভাষা নিৰ্বাচন কৰাৰ অনুমতি দিয়ে। অনুগ্ৰহ কৰি মন কৰক যে কিছুমান আন্তঃপৃষ্ঠ এতিয়াও ইংৰাজীত থাকিব
+- **একাউন্ট আপডেট**: আপোনাক আপোনাৰ একাউণ্ট মচি পেলাবলৈ অনুমতি দিয়ে। আপোনাৰ একাউণ্টৰ বাবে এই বিকল্প চাবলৈ অধিক যোগেদি চাইন-ইন কৰক
+   - অনুগ্ৰহ কৰি আমাৰ সৈতে [tickets@aapwiki.p.tawk.email](mailto:tickets@aapwiki.p.tawk.email) যোগাযোগ কৰক যদি আপুনি একাউণ্ট স্থায়ীভাৱে মচি পেলোৱাটো বিচাৰে

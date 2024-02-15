@@ -1,34 +1,34 @@
-## Terms and Conditions
+## شرائط و ضوابط
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+اس AAP Wiki ایپ کو ڈاؤن لوڈ، انسٹال یا استعمال کرکے، آپ استعمال کی ان شرائط کی پابندی کرنے سے اتفاق کرتے ہیں۔
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. مواد کا استعمال:
+ایپ میں فراہم کردہ وکی مواد ذاتی، غیر تجارتی استعمال کے لیے ہے۔ صارفین کو واضح اجازت کے بغیر مواد کو دوبارہ پیش کرنے، تقسیم کرنے یا اس میں ترمیم کرنے کی اجازت نہیں ہے۔
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. صارف کا برتاؤ:
+صارفین کو ایپ کو قابل اطلاق قوانین اور ضوابط کے مطابق استعمال کرنا چاہیے۔ کوئی بھی بدسلوکی، غیر قانونی، یا خلل ڈالنے والا رویہ سختی سے ممنوع ہے۔
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. اکاؤنٹ کی معلومات:
+اگر ایپ کو صارف کے اندراج کی ضرورت ہے، تو صارفین اپنے اکاؤنٹ کی معلومات کی رازداری کو برقرار رکھنے کے ذمہ دار ہیں۔ ان کے اکاؤنٹ کے تحت کئے جانے والے کوئی بھی اقدامات ان کی واحد ذمہ داری ہیں۔
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. قابل اطلاق قوانین:
+صارفین ایپ کا استعمال کرتے ہوئے تمام مقامی، ریاستی اور قومی قوانین کی تعمیل کرنے سے اتفاق کرتے ہیں۔ کسی بھی خلاف ورزی کے نتیجے میں صارف کی رسائی ختم ہو سکتی ہے۔
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. دانشورانہ املاک:
+ایپ اور اس کا مواد دانشورانہ املاک کے قوانین سے محفوظ ہے۔ صارفین اس بات پر متفق ہیں کہ کاپی رائٹس، ٹریڈ مارکس، یا ایپ سے وابستہ کسی دوسرے حقوق کی خلاف ورزی نہ کریں۔
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. فریق ثالث کے لنکس:
+ایپ میں فریق ثالث کی ویب سائٹس کے لنکس ہوسکتے ہیں۔ صارفین تسلیم کرتے ہیں کہ یہ لنکس سہولت کے لیے فراہم کیے گئے ہیں، اور ہم بیرونی سائٹس پر مواد کی توثیق یا کنٹرول نہیں کرتے ہیں۔
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. وارنٹی سے دستبرداری:
+ایپ بغیر کسی وارنٹی کے "جیسا ہے" فراہم کی جاتی ہے۔ ہم AAP ویکی مواد کی درستگی، مکمل ہونے یا قابل اعتماد ہونے کی ضمانت نہیں دیتے۔
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. ذمہ داری کی حد:
+کسی بھی صورت میں ایپ کے ڈویلپرز یا متعلقہ فریق ایپ کے استعمال سے پیدا ہونے والے کسی بھی براہ راست، بالواسطہ، واقعاتی، نتیجہ خیز، یا تعزیری نقصانات کے لیے ذمہ دار نہیں ہوں گے۔
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. رسائی کا خاتمہ:
+ہم ان شرائط کی خلاف ورزی سمیت کسی بھی وجہ سے بغیر اطلاع کے اپنی صوابدید پر ایپ تک صارف کی رسائی کو ختم کرنے کا حق محفوظ رکھتے ہیں۔
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. شرائط کی تازہ کارییں:
+ان شرائط کو پیشگی اطلاع کے بغیر اپ ڈیٹ کیا جا سکتا ہے۔ صارفین کو کسی بھی تبدیلی کے لیے باقاعدگی سے شرائط کا جائزہ لینے کی ترغیب دی جاتی ہے۔
+AAP Wiki ایپ کا استعمال کرتے ہوئے، صارفین استعمال کی ان شرائط کو تسلیم کرتے ہیں اور ان سے اتفاق کرتے ہیں۔ اگر آپ ان شرائط سے متفق نہیں ہیں تو براہ کرم ایپ کو استعمال کرنے سے گریز کریں۔

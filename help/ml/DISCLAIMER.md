@@ -1,11 +1,11 @@
-## Full Disclaimer
+## പൂർണ്ണ നിരാകരണം
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+ഈ വെബ്‌സൈറ്റിൽ അടങ്ങിയിരിക്കുന്ന വിവരങ്ങൾ പൊതുവായ വിവര ആവശ്യങ്ങൾക്ക് മാത്രമുള്ളതാണ്. പൊതു ഉപയോഗത്തിനായി കൃത്യമായി പരാമർശിച്ചിരിക്കുന്ന വിവരങ്ങളിൽ നിന്നാണ് വിവരങ്ങൾ ഉരുത്തിരിഞ്ഞത്, വിവരങ്ങൾ കാലികവും ശരിയും നിലനിർത്താൻ ഞങ്ങൾ ശ്രമിക്കുമ്പോൾ, പൂർണ്ണത, കൃത്യത, വിശ്വാസ്യത, അനുയോജ്യത എന്നിവയെക്കുറിച്ച് ഏതെങ്കിലും തരത്തിലുള്ള പ്രതിനിധാനങ്ങളോ വാറൻ്റികളോ ഞങ്ങൾ നൽകുന്നില്ല. അല്ലെങ്കിൽ ഏതെങ്കിലും ആവശ്യത്തിനായി വെബ്സൈറ്റിൽ അടങ്ങിയിരിക്കുന്ന വെബ്സൈറ്റ് അല്ലെങ്കിൽ വിവരങ്ങൾ, ഉൽപ്പന്നങ്ങൾ, സേവനങ്ങൾ അല്ലെങ്കിൽ അനുബന്ധ ഗ്രാഫിക്സ് എന്നിവയുമായി ബന്ധപ്പെട്ട ലഭ്യത. അതിനാൽ അത്തരം വിവരങ്ങളിൽ നിങ്ങൾ ആശ്രയിക്കുന്ന ഏതൊരു കാര്യവും നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്തത്തിലാണ്.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+പരിമിതികളില്ലാതെ, പരോക്ഷമോ അനന്തരഫലമോ ആയ നഷ്ടം അല്ലെങ്കിൽ കേടുപാടുകൾ, അല്ലെങ്കിൽ ഈ വെബ്‌സൈറ്റിൻ്റെ ഉപയോഗത്തിൽ നിന്ന് ഉണ്ടാകുന്ന ഡാറ്റ അല്ലെങ്കിൽ ലാഭം എന്നിവയിൽ നിന്ന് ഉണ്ടാകുന്ന എന്തെങ്കിലും നഷ്ടം അല്ലെങ്കിൽ നാശനഷ്ടങ്ങൾ എന്നിവയുൾപ്പെടെ ഒരു സാഹചര്യത്തിലും ഞങ്ങൾ ബാധ്യസ്ഥരായിരിക്കില്ല. .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+ഈ വെബ്‌സൈറ്റ് വഴി നിങ്ങൾക്ക് ഞങ്ങളുടെ നിയന്ത്രണത്തിലല്ലാത്ത മറ്റ് വെബ്‌സൈറ്റുകളിലേക്ക് ലിങ്ക് ചെയ്യാൻ കഴിയും. ആ സൈറ്റുകളുടെ സ്വഭാവം, ഉള്ളടക്കം, ലഭ്യത എന്നിവയിൽ ഞങ്ങൾക്ക് നിയന്ത്രണമില്ല. ഏതെങ്കിലും ലിങ്കുകൾ ഉൾപ്പെടുത്തുന്നത് ഒരു ശുപാർശയെ സൂചിപ്പിക്കുകയോ അവയിൽ പ്രകടിപ്പിക്കുന്ന കാഴ്ചപ്പാടുകളെ അംഗീകരിക്കുകയോ ചെയ്യണമെന്നില്ല.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+വെബ്‌സൈറ്റ് സുഗമമായി പ്രവർത്തിപ്പിക്കുന്നതിന് എല്ലാ ശ്രമങ്ങളും നടത്തുന്നു. എന്നിരുന്നാലും, ഞങ്ങളുടെ നിയന്ത്രണത്തിന് അതീതമായ സാങ്കേതിക പ്രശ്‌നങ്ങൾ കാരണം വെബ്‌സൈറ്റ് താൽക്കാലികമായി ലഭ്യമല്ലാത്തതിൻ്റെ ഉത്തരവാദിത്തം ഞങ്ങൾ ഏറ്റെടുക്കുന്നില്ല, അതിന് ഞങ്ങൾ ബാധ്യസ്ഥരല്ല.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**ശ്രദ്ധിക്കുക: നിങ്ങൾ എന്തെങ്കിലും തെറ്റ്/തെറ്റായ വിവരങ്ങൾ കണ്ടെത്തുകയാണെങ്കിൽ, ദയവായി ഞങ്ങളെ ബന്ധപ്പെടുക. നിർദ്ദേശിച്ച റഫറൻസിൽ നിന്ന് വിവരങ്ങൾ പരിശോധിച്ചുറപ്പിച്ചതിന് ശേഷം തിരുത്തലുകൾ വരുത്തുന്നതിൽ ഞങ്ങൾക്ക് സന്തോഷമുണ്ട്**

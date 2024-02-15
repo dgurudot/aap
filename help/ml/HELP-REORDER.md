@@ -1,6 +1,4 @@
-# **Reorder**
+# **പുനഃക്രമീകരിക്കുക**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- ഈ ക്രമീകരണം നിങ്ങളെ **മെനുവിൻ്റെ ക്രമം ക്രമീകരിക്കാൻ അനുവദിക്കുന്നു** കൂടാതെ **പ്രദർശനത്തിനായി പ്രത്യേക മെനു പ്രവർത്തനക്ഷമമാക്കുകയോ പ്രവർത്തനരഹിതമാക്കുകയോ ചെയ്യുക**
+- മറ്റ് മെനുകളുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ മെനുവിൻ്റെ നിർദ്ദിഷ്ട ക്രമം മാറ്റാൻ ഒരു പ്രത്യേക മെനു ദീർഘനേരം അമർത്തി വലിച്ചിടുക.

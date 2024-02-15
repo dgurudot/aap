@@ -1,34 +1,34 @@
-## Terms and Conditions
+## চৰ্ত আৰু নিয়ম
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+এই AAP Wiki App ডাউনলোড, ইনষ্টল বা ব্যৱহাৰ কৰি আপুনি এই ব্যৱহাৰৰ চৰ্তসমূহ মানি চলিবলৈ সন্মত হৈছে।
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. বিষয়বস্তুৰ ব্যৱহাৰ:
+এপটোত প্ৰদান কৰা ৱিকিৰ বিষয়বস্তু ব্যক্তিগত, অবাণিজ্যিক ব্যৱহাৰৰ বাবে। ব্যৱহাৰকাৰীসকলে স্পষ্ট অনুমতি অবিহনে বিষয়বস্তু পুনৰুত্পাদন, বিতৰণ বা পৰিবৰ্তন কৰাৰ অনুমতি নাই।
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+২) ব্যৱহাৰকাৰীৰ আচৰণ:
+ব্যৱহাৰকাৰীসকলে প্ৰযোজ্য আইন আৰু নিয়মৰ সৈতে সামঞ্জস্যপূৰ্ণভাৱে এপটো ব্যৱহাৰ কৰিব লাগিব। কোনো ধৰণৰ গালি-গালাজ, অবৈধ বা বিঘ্নিতকাৰী আচৰণ কঠোৰভাৱে নিষিদ্ধ।
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+৩/ একাউণ্টৰ তথ্য:
+যদি এপটোত ব্যৱহাৰকাৰী পঞ্জীয়নৰ প্ৰয়োজন হয়, তেন্তে ব্যৱহাৰকাৰীসকলে তেওঁলোকৰ একাউণ্টৰ তথ্যৰ গোপনীয়তা বজাই ৰখাৰ বাবে দায়বদ্ধ। তেওঁলোকৰ একাউণ্টৰ অধীনত কৰা যিকোনো কাৰ্য্য তেওঁলোকৰ একমাত্ৰ দায়িত্ব।
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+৪/ প্ৰযোজ্য আইন:
+ব্যৱহাৰকাৰীসকলে এপটো ব্যৱহাৰ কৰাৰ সময়ত সকলো স্থানীয়, ৰাজ্যিক আৰু ৰাষ্ট্ৰীয় আইন মানি চলিবলৈ সন্মত হৈছে। যিকোনো উলংঘাৰ ফলত ব্যৱহাৰকাৰীৰ অভিগম বন্ধ হ'ব পাৰে।
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+৫/ বৌদ্ধিক সম্পত্তি:
+এপটো আৰু ইয়াৰ বিষয়বস্তু বৌদ্ধিক সম্পত্তিৰ আইন অনুসৰি সুৰক্ষিত। ব্যৱহাৰকাৰীসকলে কপিৰাইট, ট্ৰেডমাৰ্ক, বা এপটোৰ সৈতে জড়িত অন্য কোনো অধিকাৰ উলংঘা নকৰিবলৈ সন্মত হৈছে।
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+৬/ তৃতীয় পক্ষৰ সংযোগ:
+এপটোত তৃতীয় পক্ষৰ ৱেবছাইটৰ লিংক থাকিব পাৰে। ব্যৱহাৰকাৰীসকলে স্বীকাৰ কৰে যে এই লিংকসমূহ সুবিধাৰ বাবে প্ৰদান কৰা হৈছে, আৰু আমি বাহ্যিক চাইটসমূহৰ বিষয়বস্তু সমৰ্থন বা নিয়ন্ত্ৰণ নকৰো৷
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+৭) ৱাৰেণ্টীৰ অস্বীকাৰ:
+কোনো ৱাৰেণ্টী নোহোৱাকৈ এপটো "যেনেকৈ আছে" প্ৰদান কৰা হৈছে। আমি AAP ৱিকিৰ বিষয়বস্তুৰ সঠিকতা, সম্পূৰ্ণতা বা নিৰ্ভৰযোগ্যতাৰ নিশ্চয়তা নিদিওঁ।
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+৮) দায়বদ্ধতাৰ সীমাবদ্ধতা:
+কোনো কাৰণতে এপটোৰ ব্যৱহাৰৰ ফলত হোৱা কোনো প্ৰত্যক্ষ, পৰোক্ষ, আকস্মিক, ফলস্বৰূপ বা শাস্তিমূলক ক্ষতিৰ বাবে এপ ডেভেলপাৰ বা সংশ্লিষ্ট পক্ষ দায়ী নহ'ব।
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+৯) প্ৰৱেশৰ সমাপ্তি:
+আমি এই চৰ্তসমূহ উলংঘা কৰাকে ধৰি কোনো কাৰণত, জাননী নিদিয়াকৈ, আমাৰ বিবেচনা অনুসৰি এপটোত ব্যৱহাৰকাৰীৰ প্ৰৱেশ বন্ধ কৰাৰ অধিকাৰ সংৰক্ষিত ৰাখিছো৷
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. চৰ্তসমূহৰ আপডেটসমূহ:
+এই চৰ্তসমূহ পূৰ্বৰ জাননী অবিহনে আপডেট কৰিব পাৰি। ব্যৱহাৰকাৰীসকলক যিকোনো পৰিৱৰ্তনৰ বাবে নিয়মিতভাৱে চৰ্তসমূহ পৰ্যালোচনা কৰিবলৈ উৎসাহিত কৰা হয়।
+AAP Wiki App ব্যৱহাৰ কৰি ব্যৱহাৰকাৰীসকলে এই ব্যৱহাৰৰ চৰ্তসমূহ স্বীকাৰ কৰে আৰু সন্মত হয়। যদি আপুনি এই চৰ্তসমূহৰ সৈতে একমত নহয়, তেন্তে অনুগ্ৰহ কৰি এপটো ব্যৱহাৰ কৰাৰ পৰা বিৰত থাকক।

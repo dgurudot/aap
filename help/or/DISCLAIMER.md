@@ -1,11 +1,11 @@
-## Full Disclaimer
+## ସମ୍ପୂର୍ଣ୍ଣ ପ୍ରତ୍ୟାଖ୍ୟାନ |
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+ଏହି ୱେବସାଇଟ୍ ରେ ଥିବା ସୂଚନା କେବଳ ସାଧାରଣ ସୂଚନା ଉଦ୍ଦେଶ୍ୟ ପାଇଁ | ସର୍ବସାଧାରଣ ବ୍ୟବହାର ପାଇଁ ସୂଚନାର ସଠିକ୍ ଭାବରେ ଉଲ୍ଲେଖ କରାଯାଇଥିବା ସୂଚନାରୁ ଏହି ସୂଚନା ଉତ୍ପନ୍ନ ହୋଇଛି ଏବଂ ଯେତେବେଳେ ଆମେ ତଥ୍ୟକୁ ଅଦ୍ୟତନ ଏବଂ ସଠିକ୍ ରଖିବାକୁ ଚେଷ୍ଟା କରୁ, ସଂପୂର୍ଣ୍ଣତା, ସଠିକତା, ନିର୍ଭରଯୋଗ୍ୟତା, ଉପଯୁକ୍ତତା ବିଷୟରେ ଆମେ କ represent ଣସି ପ୍ରକାରର ଉପସ୍ଥାପନା କିମ୍ବା ୱାରେଣ୍ଟି ପ୍ରସ୍ତୁତ କରୁନାହୁଁ | କିମ୍ବା ୱେବସାଇଟ୍ କିମ୍ବା ସୂଚନା, ଉତ୍ପାଦ, ସେବା, କିମ୍ବା ସମ୍ବନ୍ଧୀୟ ଗ୍ରାଫିକ୍ସ ସମ୍ବନ୍ଧରେ ଉପଲବ୍ଧତା ଯେକ any ଣସି ଉଦ୍ଦେଶ୍ୟରେ ୱେବସାଇଟରେ ଅଛି | ଏହିପରି ସୂଚନା ଉପରେ ଆପଣ ଯେକ Any ଣସି ନିର୍ଭରଶୀଳତା ଆପଣଙ୍କ ନିଜ ବିପଦରେ |
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+କ event ଣସି ଘଟଣାରେ ଆମେ କ loss ଣସି କ୍ଷତି କିମ୍ବା କ୍ଷତି ପାଇଁ ଦାୟୀ ରହିବୁ ନାହିଁ, ସୀମିତତା, ପରୋକ୍ଷ କିମ୍ବା ଫଳାଫଳଗତ କ୍ଷତି କିମ୍ବା କ୍ଷତି, କିମ୍ବା ଏହି ୱେବସାଇଟ୍ ବ୍ୟବହାର ସହିତ ତଥ୍ୟ କିମ୍ବା ଲାଭ ହାନି ହେତୁ କ loss ଣସି କ୍ଷତି କିମ୍ବା କ୍ଷତି | ।
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+ଏହି ୱେବସାଇଟ୍ ମାଧ୍ୟମରେ ଆପଣ ଅନ୍ୟ ୱେବସାଇଟ୍ ସହିତ ଲିଙ୍କ୍ କରିବାକୁ ସକ୍ଷମ ଅଟନ୍ତି ଯାହା ଆମ ନିୟନ୍ତ୍ରଣରେ ନାହିଁ | ସେହି ସାଇଟଗୁଡିକର ପ୍ରକୃତି, ବିଷୟବସ୍ତୁ ଏବଂ ଉପଲବ୍ଧତା ଉପରେ ଆମର କ control ଣସି ନିୟନ୍ତ୍ରଣ ନାହିଁ | କ links ଣସି ଲିଙ୍କ୍ ଅନ୍ତର୍ଭୂକ୍ତ କରିବା ଏକ ସୁପାରିଶକୁ ସୂଚୀତ କରେ ନାହିଁ କିମ୍ବା ସେମାନଙ୍କ ମଧ୍ୟରେ ପ୍ରକାଶିତ ମତକୁ ସମର୍ଥନ କରେ ନାହିଁ |
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+ୱେବସାଇଟ୍ କୁ ସୁରୁଖୁରୁରେ ଚଳାଇବା ପାଇଁ ସମସ୍ତ ପ୍ରୟାସ କରାଯାଏ | ତଥାପି, ଆମର ନିୟନ୍ତ୍ରଣ ବାହାରେ ବ technical ଷୟିକ ସମସ୍ୟା ହେତୁ ୱେବସାଇଟ୍ ସାମୟିକ ଭାବରେ ଉପଲବ୍ଧ ନହେବା ପାଇଁ ଆମେ କ responsibility ଣସି ଦାୟିତ୍ take ଗ୍ରହଣ କରୁନାହୁଁ ଏବଂ ଏଥିପାଇଁ ଦାୟୀ ରହିବୁ ନାହିଁ |
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+** ଟିପନ୍ତୁ: ଯଦି ଆପଣ କ fault ଣସି ଦୋଷ / ଭୁଲ ତଥ୍ୟ ଖୋଜନ୍ତି, ଦୟାକରି ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ | ପରାମର୍ଶିତ ରେଫରେନ୍ସରୁ ସୂଚନାକୁ ସଠିକ୍ ଭାବରେ ଯାଞ୍ଚ କରିବା ପରେ ଆମେ ସଂଶୋଧନ କରି ଖୁସି |

@@ -1,11 +1,11 @@
-## Full Disclaimer
+## সম্পূৰ্ণ অস্বীকাৰ
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+এই ৱেবছাইটত থকা তথ্যসমূহ কেৱল সাধাৰণ তথ্যৰ উদ্দেশ্যেহে। তথ্যসমূহ ৰাজহুৱা ব্যৱহাৰৰ বাবে তথ্যৰ যথাযথভাৱে উল্লেখ কৰা উল্লেখৰ পৰা আহৰণ কৰা হৈছে আৰু আমি তথ্যসমূহ আপডেট আৰু শুদ্ধ কৰি ৰাখিবলৈ চেষ্টা কৰিলেও, আমি কোনো ধৰণৰ, স্পষ্ট বা অস্পষ্টভাৱে, সম্পূৰ্ণতা, সঠিকতা, নিৰ্ভৰযোগ্যতা, উপযুক্ততাৰ বিষয়ে কোনো ধৰণৰ প্ৰতিনিধিত্ব বা ৱাৰেণ্টী নিদিওঁ বা ৱেবছাইট বা ৱেবছাইটত থকা তথ্য, পণ্য, সেৱা, বা আনুষংগিক গ্ৰাফিক্সৰ সম্পৰ্কে যিকোনো উদ্দেশ্যৰ বাবে উপলব্ধতা। এনে তথ্যৰ ওপৰত আপুনি যিকোনো নিৰ্ভৰশীলতা সেয়েহে কঠোৰভাৱে আপোনাৰ নিজৰ দায়িত্বত।
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+কোনো কাৰণতে আমি সীমাবদ্ধতা অবিহনে, পৰোক্ষ বা ফলস্বৰূপ লোকচান বা ক্ষতি, বা এই ৱেবছাইটৰ ব্যৱহাৰৰ ফলত বা ইয়াৰ সৈতে জড়িত তথ্য বা লাভৰ ক্ষতিৰ ফলত হোৱা কোনো লোকচান বা ক্ষতিৰ বাবে দায়ী নহ'ম .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+এই ৱেবছাইটৰ জৰিয়তে আপুনি আমাৰ নিয়ন্ত্ৰণত নথকা আন ৱেবছাইটৰ সৈতে লিংক কৰিবলৈ সক্ষম হৈছে। সেই চাইটসমূহৰ প্ৰকৃতি, বিষয়বস্তু আৰু উপলব্ধতাৰ ওপৰত আমাৰ কোনো নিয়ন্ত্ৰণ নাই। কোনো লিংক অন্তৰ্ভুক্ত কৰিলে ইয়াৰ ভিতৰত প্ৰকাশ কৰা মতামতক পৰামৰ্শ বা সমৰ্থন কৰাটো বাধ্যতামূলক নহয়।
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+ৱেবছাইটটো সুচাৰুৰূপে চলি থাকিবলৈ সকলো প্ৰচেষ্টা চলোৱা হয়। কিন্তু আমাৰ নিয়ন্ত্ৰণৰ বাহিৰৰ কাৰিকৰী সমস্যাৰ বাবে ৱেবছাইটটো সাময়িকভাৱে উপলব্ধ নোহোৱাৰ বাবে আমি কোনো দায়িত্ব নলওঁ, আৰু ইয়াৰ বাবেও দায়ী নহ'ম।
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**বি:দ্ৰ: যদি আপুনি কোনো দোষ/ভুল তথ্য পায় তেন্তে আমাৰ সৈতে যোগাযোগ কৰক। আমি পৰামৰ্শ দিয়া ৰেফাৰেন্সৰ পৰা তথ্যসমূহ নথিভুক্তভাৱে পৰীক্ষা কৰাৰ পিছত সংশোধন কৰিবলৈ সুখী**

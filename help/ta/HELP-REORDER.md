@@ -1,6 +1,4 @@
-# **Reorder**
+# **மறுவரிசைப்படுத்து**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- இந்த அமைப்பானது **மெனுவின் வரிசையை** சரிசெய்துகொள்ளவும், மேலும் **செயல்படுத்த அல்லது முடக்கவும்** குறிப்பிட்ட மெனுவை காட்சிப்படுத்தவும் அனுமதிக்கிறது.
+- மற்ற மெனுக்களுடன் தொடர்புடைய மெனுவின் குறிப்பிட்ட வரிசையை மாற்ற, ஒரு குறிப்பிட்ட மெனுவை நீண்ட நேரம் அழுத்தி இழுக்கவும்/விடவும்

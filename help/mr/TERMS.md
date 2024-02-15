@@ -1,34 +1,34 @@
-## Terms and Conditions
+## नियम आणि अटी
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+हे AAP Wiki ॲप डाउनलोड करून, स्थापित करून किंवा वापरून, तुम्ही या वापराच्या अटींचे पालन करण्यास सहमत आहात.
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. सामग्री वापर:
+ॲपमध्ये प्रदान केलेली विकी सामग्री वैयक्तिक, गैर-व्यावसायिक वापरासाठी आहे. वापरकर्त्यांना स्पष्ट परवानगीशिवाय सामग्रीचे पुनरुत्पादन, वितरण किंवा सुधारणा करण्याची परवानगी नाही.
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. वापरकर्ता आचार:
+वापरकर्त्यांनी ॲपचा वापर लागू कायदे आणि नियमांशी सुसंगतपणे केला पाहिजे. कोणतेही अपमानास्पद, बेकायदेशीर किंवा व्यत्यय आणणारे वर्तन सक्तीने प्रतिबंधित आहे.
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. खाते माहिती:
+ॲपला वापरकर्ता नोंदणीची आवश्यकता असल्यास, वापरकर्ते त्यांच्या खात्याच्या माहितीची गोपनीयता राखण्यासाठी जबाबदार आहेत. त्यांच्या खात्यांतर्गत केलेल्या कोणत्याही कृती त्यांची संपूर्ण जबाबदारी आहे.
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. लागू कायदे:
+वापरकर्ते ॲप वापरताना सर्व स्थानिक, राज्य आणि राष्ट्रीय कायद्यांचे पालन करण्यास सहमती देतात. कोणत्याही उल्लंघनामुळे वापरकर्ता प्रवेश बंद केला जाऊ शकतो.
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. बौद्धिक संपदा:
+ॲप आणि त्यातील सामग्री बौद्धिक संपदा कायद्यांद्वारे संरक्षित आहे. वापरकर्ते ॲपशी संबंधित कॉपीराइट, ट्रेडमार्क किंवा इतर कोणत्याही अधिकारांचे उल्लंघन न करण्यास सहमती देतात.
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. तृतीय-पक्ष लिंक:
+ॲपमध्ये तृतीय-पक्षाच्या वेबसाइटच्या लिंक असू शकतात. वापरकर्ते कबूल करतात की हे दुवे सोयीसाठी प्रदान केले आहेत आणि आम्ही बाह्य साइटवरील सामग्रीचे समर्थन किंवा नियंत्रण करत नाही.
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. वॉरंटीचा अस्वीकरण:
+ॲप कोणत्याही वॉरंटीशिवाय "जसे आहे तसे" प्रदान केले आहे. आम्ही AAP विकी सामग्रीच्या अचूकतेची, पूर्णतेची किंवा विश्वासार्हतेची हमी देत नाही.
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. दायित्वाची मर्यादा:
+कोणत्याही परिस्थितीत ॲप डेव्हलपर किंवा संबंधित पक्ष ॲपच्या वापरामुळे उद्भवणाऱ्या कोणत्याही प्रत्यक्ष, अप्रत्यक्ष, आनुषंगिक, परिणामी किंवा दंडात्मक नुकसानीसाठी जबाबदार असणार नाहीत.
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. प्रवेश समाप्ती:
+आम्ही या अटींच्या उल्लंघनासह कोणत्याही कारणास्तव, आमच्या विवेकबुद्धीनुसार, कोणत्याही कारणास्तव, आमच्या विवेकबुद्धीनुसार ॲपवरील वापरकर्त्याचा प्रवेश समाप्त करण्याचा अधिकार राखून ठेवतो.
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. अटींचे अपडेट:
+या अटी पूर्वसूचनेशिवाय अद्यतनित केल्या जाऊ शकतात. कोणत्याही बदलांसाठी वापरकर्त्यांना नियमितपणे अटींचे पुनरावलोकन करण्यास प्रोत्साहित केले जाते.
+AAP विकी ॲप वापरून, वापरकर्ते या वापर अटी मान्य करतात आणि त्यांना सहमती देतात. तुम्ही या अटींशी सहमत नसल्यास, कृपया ॲप वापरणे टाळा.

@@ -1,4 +1,4 @@
-# **Bookmarks**
+# **ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು**
 
-- View your bookmarked articles when logged-in (Google or Apple).
-- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
+- **ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಿದ ಲೇಖನಗಳನ್ನು ವೀಕ್ಷಿಸಿ** ಲಾಗ್-ಇನ್ ಮಾಡಿದಾಗ (ಗೂಗಲ್ ಅಥವಾ ಆಪಲ್)
+- ** ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಲು**, ದಯೆಯಿಂದ ಹೋಮ್‌ನಿಂದ ಮಾಡಿ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಲೇಖನದ ಬುಕ್‌ಮಾರ್ಕ್ ಬಟನ್ ಬಳಸಿ

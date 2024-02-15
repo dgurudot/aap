@@ -1,11 +1,11 @@
-## Full Disclaimer
+## संपूर्ण अस्वीकरण
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+या वेबसाइटमध्ये असलेली माहिती केवळ सामान्य माहितीच्या उद्देशाने आहे. माहिती सार्वजनिक वापरासाठी माहितीच्या योग्य उल्लेख केलेल्या संदर्भांमधून प्राप्त केली गेली आहे आणि आम्ही माहिती अद्ययावत आणि बरोबर ठेवण्याचा प्रयत्न करत असताना, आम्ही पूर्णता, अचूकता, विश्वासार्हता, सुयोग्यता याविषयी कोणत्याही प्रकारचे, स्पष्ट किंवा निहित कोणतेही प्रतिनिधित्व किंवा हमी देत नाही. किंवा वेबसाइटच्या संदर्भात उपलब्धता किंवा कोणत्याही हेतूसाठी वेबसाइटवर असलेली माहिती, उत्पादने, सेवा किंवा संबंधित ग्राफिक्स. त्यामुळे तुम्ही अशा माहितीवर कोणताही विसंबून ठेवता ते तुमच्या स्वतःच्या जोखमीवर असते.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+कोणत्याही परिस्थितीत आम्ही या वेबसाइटच्या वापरामुळे किंवा त्या संबंधात, डेटा किंवा नफ्याच्या नुकसानीमुळे उद्भवलेल्या कोणत्याही मर्यादेशिवाय, अप्रत्यक्ष किंवा परिणामी नुकसान किंवा नुकसान, किंवा कोणतेही नुकसान किंवा नुकसान यासह कोणत्याही नुकसान किंवा नुकसानासाठी जबाबदार राहणार नाही. .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+या वेबसाइटद्वारे तुम्ही आमच्या नियंत्रणात नसलेल्या इतर वेबसाइटशी लिंक करू शकता. त्या साइट्सचे स्वरूप, सामग्री आणि उपलब्धता यावर आमचे कोणतेही नियंत्रण नाही. कोणत्याही दुव्यांचा समावेश करणे आवश्यक नाही की शिफारस सूचित करते किंवा त्यांच्यामध्ये व्यक्त केलेल्या मतांचे समर्थन करते.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+वेबसाईट सुरळीतपणे चालू ठेवण्यासाठी सर्वतोपरी प्रयत्न केले जातात. तथापि, आमच्या नियंत्रणाबाहेरील तांत्रिक समस्यांमुळे वेबसाइट तात्पुरते अनुपलब्ध असल्याने आम्ही कोणतीही जबाबदारी घेत नाही आणि त्यासाठी आम्ही जबाबदार राहणार नाही.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**टीप: तुम्हाला काही दोष/चुकीची माहिती आढळल्यास, कृपया आमच्याशी संपर्क साधा. सुचविलेल्या संदर्भातील माहितीची व्यवस्थित पडताळणी केल्यानंतर दुरुस्त्या करण्यात आम्हाला आनंद होत आहे**

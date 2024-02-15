@@ -1,18 +1,13 @@
-# **Support**
+# ** ସଂଯୋଗ **
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve experience.
-- **Rate:** Rate your experience on App/Play Stores.
-- **Share:** Share application with friends and family.
-- **Disclaimer:** Read about disclaimers for platform.
-- **Privacy:** Read about privacy for platform.
-- **Terms of Use:** Read about terms of use for platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- ** ପ୍ରଶ୍ନ ଏବଂ ଅନୁରୋଧ: ** ବାରମ୍ବାର ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନର ଉତ୍ତର ଖୋଜ 24x7 | ଲାଇଭ୍ ଚାଟ୍ ସମର୍ଥନ କିମ୍ବା ଖୋଲା ସମର୍ଥନ ମାମଲା ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
+- ** ମତାମତ: ** ଅଭିଜ୍ଞତାକୁ ଉନ୍ନତ କରିବା ପାଇଁ ପରାମର୍ଶ ସହିତ ଖୋଲାଖୋଲି ଭାବରେ ଆପଣଙ୍କର ମତାମତ ଅଂଶୀଦାର କରନ୍ତୁ |
+- ** ସ୍ବେଚ୍ଛାସେବୀ: ** ଯଦି ଆପଣ ଦଳରେ ଯୋଗ ଦେବାକୁ ଚାହୁଁଛନ୍ତି ତେବେ ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |
+- ** ରେଟ୍: ** ଆପ୍ / ପ୍ଲେ ଷ୍ଟୋରଗୁଡିକରେ ଆପଣଙ୍କର ଅଭିଜ୍ଞତାକୁ ମୂଲ୍ୟାଙ୍କନ କରନ୍ତୁ |
+- ** ଅଂଶୀଦାର: ** ସାଙ୍ଗ ଏବଂ ପରିବାର ସହିତ ଅନୁପ୍ରୟୋଗ ଅଂଶୀଦାର କରନ୍ତୁ |
+- ** ସୋସିଆଲ୍ ମିଡିଆ: ** ଆପଣଙ୍କ ପ୍ରିୟ ସୋସିଆଲ୍ ମିଡିଆ ଚ୍ୟାନେଲ ମାଧ୍ୟମରେ ଆମ ସହିତ ସଂଯୋଗ କରିବାକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ସୋସିଆଲ୍ ମିଡିଆ ଆଇକନ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ |
+- ** ଗୋପନୀୟତା: ** ପ୍ଲାଟଫର୍ମ ପାଇଁ ଗୋପନୀୟତା ବିଷୟରେ ପ Read ନ୍ତୁ |
+- ** ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ: ** ପ୍ଲାଟଫର୍ମ ପାଇଁ ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ ବିଷୟରେ ପ Read ନ୍ତୁ |
+- ** ପ୍ରତ୍ୟାଖ୍ୟାନ: ** ପ୍ଲାଟଫର୍ମ ପାଇଁ ପ୍ରତ୍ୟାଖ୍ୟାନ ବିଷୟରେ ପ Read ନ୍ତୁ |
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
-
+- ** ଟିପନ୍ତୁ: ** କେବଳ ଗ୍ରାହକ ସମର୍ଥନ ଦଳର ନିର୍ଦ୍ଦେଶ ସହିତ ଉପର ଡାହାଣ ସମର୍ଥନ ଉପକରଣ ବଟନ୍ ବ୍ୟବହାର କରନ୍ତୁ |

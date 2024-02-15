@@ -1,6 +1,4 @@
-# **Reorder**
+# **ಮರುಕ್ರಮಗೊಳಿಸು**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- ಈ ಸೆಟ್ಟಿಂಗ್ ನಿಮಗೆ **ಮೆನುವಿನ ಕ್ರಮವನ್ನು ಹೊಂದಿಸಲು** ಮತ್ತು **ಸಕ್ರಿಯಗೊಳಿಸಲು ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು** ನಿರ್ದಿಷ್ಟ ಮೆನುವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಅನುಮತಿಸುತ್ತದೆ
+- ಇತರ ಮೆನುಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಮೆನುವಿನ ನಿರ್ದಿಷ್ಟ ಕ್ರಮವನ್ನು ಬದಲಾಯಿಸಲು ನಿರ್ದಿಷ್ಟ ಮೆನುವನ್ನು ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು ಎಳೆಯಿರಿ/ಡ್ರಾಪ್ ಮಾಡಿ

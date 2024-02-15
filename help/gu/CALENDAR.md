@@ -1,4 +1,4 @@
-# **Calendar**
+# **કૅલેન્ડર**
 
-- List all main events of AAP. Example: Rallies, Court Cases, Major Announcements/Events.
-- Scroll down on list to view all events for a specific month.
+- **આપની તમામ મુખ્ય ઘટનાઓની યાદી આપે છે**. ઉદાહરણ: રેલીઓ, કોર્ટ કેસ, મુખ્ય ઘોષણાઓ/ઇવેન્ટ્સ
+- ચોક્કસ મહિનાની તમામ ઇવેન્ટ્સ જોવા માટે સૂચિ પર **નીચે સ્ક્રોલ કરો**

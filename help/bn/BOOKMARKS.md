@@ -1,4 +1,4 @@
-# **Bookmarks**
+# **বুকমার্ক**
 
-- View your bookmarked articles when logged-in (Google or Apple).
-- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
+- **লগ-ইন করার সময় আপনার বুকমার্ক করা নিবন্ধগুলি দেখুন** (গুগল বা অ্যাপল)
+- **বুকমার্ক টগল করতে**, দয়া করে হোম থেকে বা নির্দিষ্ট নিবন্ধের বুকমার্ক বোতাম ব্যবহার করে করুন৷

@@ -1,4 +1,4 @@
-# **Bookmarks**
+# **புக்மார்க்குகள்**
 
-- View your bookmarked articles when logged-in (Google or Apple).
-- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
+- **உங்கள் புக்மார்க் செய்யப்பட்ட கட்டுரைகளைப் பார்க்கவும்** உள்நுழைந்திருக்கும் போது (Google அல்லது Apple)
+- **புக்மார்க்குகளை நிலைமாற**, தயவுசெய்து முகப்பு அல்லது குறிப்பிட்ட கட்டுரையின் புக்மார்க் பட்டனைப் பயன்படுத்தி செய்யுங்கள்

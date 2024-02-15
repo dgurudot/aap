@@ -1,6 +1,4 @@
-# **Reorder**
+# **पुनर्क्रमित करा**
 
-- This setting allows you to **adjust the order of columns** and also **enable or disable** specific columns for display.
-- Long press and drag/drop a particular column to change the specific order of the column relative to other columns.
-
-
+- हे सेटिंग तुम्हाला **मेनूचा क्रम समायोजित करण्यास** आणि प्रदर्शनासाठी विशिष्ट मेनू **सक्षम किंवा अक्षम** करण्यास अनुमती देते.
+- इतर मेनूच्या तुलनेत मेनूचा विशिष्ट क्रम बदलण्यासाठी विशिष्ट मेनू दीर्घकाळ दाबा आणि ड्रॅग/ड्रॉप करा

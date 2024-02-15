@@ -1,4 +1,4 @@
-# **Bookmarks**
+# **ബുക്ക്മാർക്കുകൾ**
 
-- View your bookmarked articles when logged-in (Google or Apple).
-- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
+- **ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ ബുക്ക്മാർക്ക് ചെയ്ത ലേഖനങ്ങൾ കാണുക** (Google അല്ലെങ്കിൽ Apple)
+- **ബുക്ക്‌മാർക്കുകൾ ടോഗിൾ ചെയ്യാൻ**, ദയവായി അത് ഹോമിൽ നിന്നോ പ്രത്യേക ലേഖനത്തിൻ്റെ ബുക്ക്‌മാർക്ക് ബട്ടൺ ഉപയോഗിച്ചോ ചെയ്യുക

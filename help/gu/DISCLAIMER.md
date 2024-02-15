@@ -1,11 +1,11 @@
-## Full Disclaimer
+## સંપૂર્ણ અસ્વીકરણ
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+આ વેબસાઇટમાં સમાવિષ્ટ માહિતી ફક્ત સામાન્ય માહિતીના હેતુ માટે છે. માહિતી સાર્વજનિક ઉપયોગ માટે માહિતીના યોગ્ય ઉલ્લેખિત સંદર્ભોમાંથી લેવામાં આવી છે અને જ્યારે અમે માહિતીને અદ્યતન અને સાચી રાખવાનો પ્રયાસ કરીએ છીએ, ત્યારે અમે સંપૂર્ણતા, ચોકસાઈ, વિશ્વસનીયતા, યોગ્યતા વિશે કોઈપણ પ્રકારની, સ્પષ્ટ અથવા ગર્ભિત કોઈ રજૂઆત અથવા વોરંટી આપતા નથી. અથવા વેબસાઇટના સંદર્ભમાં ઉપલબ્ધતા અથવા કોઈપણ હેતુ માટે વેબસાઇટ પર સમાવિષ્ટ માહિતી, ઉત્પાદનો, સેવાઓ અથવા સંબંધિત ગ્રાફિક્સ. તમે આવી માહિતી પર કોઈપણ નિર્ભરતા રાખો છો તેથી સખત રીતે તમારા પોતાના જોખમે છે.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+કોઈ પણ સંજોગોમાં આ વેબસાઈટના ઉપયોગથી અથવા તેના સંબંધમાં, ડેટા અથવા નફાની ખોટથી થતી કોઈપણ પ્રકારની મર્યાદા વિના, પરોક્ષ અથવા પરિણામી નુકસાન અથવા નુકસાન, અથવા કોઈપણ નુકસાન અથવા નુકસાન સહિત કોઈપણ નુકસાન અથવા નુકસાન માટે અમે જવાબદાર હોઈશું નહીં. .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+આ વેબસાઈટ દ્વારા તમે અન્ય વેબસાઈટ સાથે લિંક કરવામાં સક્ષમ છો જે અમારા નિયંત્રણ હેઠળ નથી. તે સાઇટ્સની પ્રકૃતિ, સામગ્રી અને ઉપલબ્ધતા પર અમારું કોઈ નિયંત્રણ નથી. કોઈપણ લિંક્સનો સમાવેશ જરૂરી નથી કે ભલામણ સૂચિત કરે અથવા તેમની અંદર વ્યક્ત કરાયેલા વિચારોને સમર્થન આપે.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+વેબસાઈટને ચાલુ રાખવા અને સરળતાથી ચલાવવા માટે દરેક પ્રયાસ કરવામાં આવે છે. જો કે, અમારા નિયંત્રણની બહારની ટેકનિકલ સમસ્યાઓને કારણે વેબસાઈટ અસ્થાયી રૂપે અનુપલબ્ધ હોવા માટે અમે કોઈ જવાબદારી લેતા નથી અને તેના માટે જવાબદાર રહીશું નહીં.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**નોંધ: જો તમને કોઈ ખામી/ખોટી માહિતી મળે, તો કૃપા કરીને અમારો સંપર્ક કરો. સૂચિત સંદર્ભમાંથી માહિતીની વ્યવસ્થિત ચકાસણી કર્યા પછી સુધારા કરવામાં અમને આનંદ થાય છે**

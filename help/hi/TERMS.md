@@ -1,34 +1,34 @@
-Terms and Conditions
+## नियम और शर्तें
 
-By downloading, installing, or using this Android Simple News App, you agree to abide by these terms of use.
-Content Usage:
+इस AAP विकी ऐप को डाउनलोड, इंस्टॉल या उपयोग करके, आप उपयोग की इन शर्तों का पालन करने के लिए सहमत हैं।
 
-The news content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
-User Conduct:
+1. सामग्री उपयोग:
+ऐप में प्रदान की गई विकी सामग्री व्यक्तिगत, गैर-व्यावसायिक उपयोग के लिए है। उपयोगकर्ताओं को स्पष्ट अनुमति के बिना सामग्री को पुन: पेश करने, वितरित करने या संशोधित करने की अनुमति नहीं है।
 
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
-Account Information:
+2. उपयोगकर्ता आचरण:
+उपयोगकर्ताओं को ऐप का उपयोग लागू कानूनों और विनियमों के अनुरूप तरीके से करना चाहिए। कोई भी अपमानजनक, गैरकानूनी या विघटनकारी व्यवहार सख्त वर्जित है।
 
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
-Applicable Laws:
+3. खाता जानकारी:
+यदि ऐप को उपयोगकर्ता पंजीकरण की आवश्यकता है, तो उपयोगकर्ता अपने खाते की जानकारी की गोपनीयता बनाए रखने के लिए जिम्मेदार हैं। उनके खाते के तहत की गई कोई भी कार्रवाई उनकी एकमात्र जिम्मेदारी है।
 
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
-Intellectual Property:
+4. लागू कानून:
+उपयोगकर्ता ऐप का उपयोग करते समय सभी स्थानीय, राज्य और राष्ट्रीय कानूनों का पालन करने के लिए सहमत हैं। किसी भी उल्लंघन के परिणामस्वरूप उपयोगकर्ता की पहुंच समाप्त हो सकती है।
 
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
-Third-Party Links:
+5. बौद्धिक संपदा:
+ऐप और इसकी सामग्री बौद्धिक संपदा कानूनों द्वारा संरक्षित है। उपयोगकर्ता कॉपीराइट, ट्रेडमार्क, या ऐप से जुड़े किसी भी अन्य अधिकार का उल्लंघन नहीं करने पर सहमत हैं।
 
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
-Disclaimer of Warranty:
+6. तृतीय-पक्ष लिंक:
+ऐप में तृतीय-पक्ष वेबसाइटों के लिंक हो सकते हैं। उपयोगकर्ता स्वीकार करते हैं कि ये लिंक सुविधा के लिए प्रदान किए गए हैं, और हम बाहरी साइटों पर सामग्री का समर्थन या नियंत्रण नहीं करते हैं।
 
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the news content.
-Limitation of Liability:
+7. वारंटी का अस्वीकरण:
+ऐप बिना किसी वारंटी के "जैसा है" प्रदान किया गया है। हम AAP विकी सामग्री की सटीकता, पूर्णता या विश्वसनीयता की गारंटी नहीं देते हैं।
 
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
-Termination of Access:
+8. दायित्व की सीमा:
+किसी भी स्थिति में ऐप डेवलपर्स या संबंधित पक्ष ऐप के उपयोग से होने वाले किसी भी प्रत्यक्ष, अप्रत्यक्ष, आकस्मिक, परिणामी या दंडात्मक नुकसान के लिए उत्तरदायी नहीं होंगे।
 
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
-Updates to Terms:
+9. प्रवेश की समाप्ति:
+हम इन शर्तों के उल्लंघन सहित किसी भी कारण से, बिना किसी सूचना के, अपने विवेक से ऐप तक उपयोगकर्ता की पहुंच समाप्त करने का अधिकार सुरक्षित रखते हैं।
 
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the Android Simple News App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. शर्तों में अद्यतन:
+इन शर्तों को बिना पूर्व सूचना के अद्यतन किया जा सकता है। उपयोगकर्ताओं को किसी भी बदलाव के लिए नियमित रूप से शर्तों की समीक्षा करने के लिए प्रोत्साहित किया जाता है।
+AAP विकी ऐप का उपयोग करके, उपयोगकर्ता उपयोग की इन शर्तों को स्वीकार करते हैं और उनसे सहमत होते हैं। यदि आप इन शर्तों से सहमत नहीं हैं, तो कृपया ऐप का उपयोग करने से बचें।

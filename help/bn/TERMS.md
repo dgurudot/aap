@@ -1,34 +1,34 @@
-## Terms and Conditions
+## শর্তাবলী
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+এই AAP উইকি অ্যাপ ডাউনলোড, ইনস্টল বা ব্যবহার করে, আপনি এই ব্যবহারের শর্তাবলী মেনে চলতে সম্মত হন।
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. সামগ্রী ব্যবহার:
+অ্যাপে দেওয়া উইকি বিষয়বস্তু ব্যক্তিগত, অ-বাণিজ্যিক ব্যবহারের জন্য। ব্যবহারকারীদের সুস্পষ্ট অনুমতি ব্যতীত সামগ্রী পুনরুত্পাদন, বিতরণ বা সংশোধন করার অনুমতি নেই।
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. ব্যবহারকারীর আচরণ:
+ব্যবহারকারীদের অবশ্যই প্রযোজ্য আইন ও প্রবিধানের সাথে সামঞ্জস্যপূর্ণভাবে অ্যাপটি ব্যবহার করতে হবে। কোন আপত্তিজনক, বেআইনী, বা বিঘ্নিত আচরণ কঠোরভাবে নিষিদ্ধ করা হয়.
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. অ্যাকাউন্ট তথ্য:
+অ্যাপটির ব্যবহারকারীর নিবন্ধন প্রয়োজন হলে, ব্যবহারকারীরা তাদের অ্যাকাউন্টের তথ্যের গোপনীয়তা বজায় রাখার জন্য দায়ী৷ তাদের অ্যাকাউন্টের অধীনে পরিচালিত যেকোনো কর্ম তাদের একমাত্র দায়িত্ব।
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. প্রযোজ্য আইন:
+ব্যবহারকারীরা অ্যাপটি ব্যবহার করার সময় সমস্ত স্থানীয়, রাজ্য এবং জাতীয় আইন মেনে চলতে সম্মত হন। কোনো লঙ্ঘনের ফলে ব্যবহারকারীর অ্যাক্সেস বন্ধ হয়ে যেতে পারে।
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. মেধা সম্পত্তি:
+অ্যাপ এবং এর বিষয়বস্তু মেধা সম্পত্তি আইন দ্বারা সুরক্ষিত। ব্যবহারকারীরা কপিরাইট, ট্রেডমার্ক, বা অ্যাপের সাথে সম্পর্কিত অন্য কোনো অধিকার লঙ্ঘন না করতে সম্মত হন।
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. তৃতীয় পক্ষের লিঙ্ক:
+অ্যাপটিতে তৃতীয় পক্ষের ওয়েবসাইটের লিঙ্ক থাকতে পারে। ব্যবহারকারীরা স্বীকার করেন যে এই লিঙ্কগুলি সুবিধার জন্য প্রদান করা হয়েছে, এবং আমরা বহিরাগত সাইটগুলিতে সামগ্রীকে সমর্থন করি না বা নিয়ন্ত্রণ করি না।
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. ওয়ারেন্টি দাবিত্যাগ:
+অ্যাপটি কোনো ওয়ারেন্টি ছাড়াই "যেমন আছে" প্রদান করা হয়েছে। আমরা AAP উইকি বিষয়বস্তুর যথার্থতা, সম্পূর্ণতা বা নির্ভরযোগ্যতার গ্যারান্টি দিই না।
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. দায়বদ্ধতার সীমাবদ্ধতা:
+কোনো ঘটনাতেই অ্যাপ ডেভেলপার বা সংশ্লিষ্ট পক্ষগুলি অ্যাপের ব্যবহার থেকে উদ্ভূত কোনো প্রত্যক্ষ, পরোক্ষ, আনুষঙ্গিক, আনুষঙ্গিক, বা শাস্তিমূলক ক্ষতির জন্য দায়ী থাকবে না।
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. অ্যাক্সেসের অবসান:
+আমরা আমাদের বিবেচনার ভিত্তিতে, এই শর্তাবলী লঙ্ঘন সহ যে কোনও কারণে, বিজ্ঞপ্তি ছাড়াই অ্যাপটিতে ব্যবহারকারীর অ্যাক্সেস বন্ধ করার অধিকার সংরক্ষণ করি।
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. শর্তাবলীর আপডেট:
+এই শর্তাবলী পূর্ব বিজ্ঞপ্তি ছাড়া আপডেট করা যেতে পারে. ব্যবহারকারীদের যেকোনো পরিবর্তনের জন্য নিয়মিত শর্তাবলী পর্যালোচনা করতে উৎসাহিত করা হয়।
+AAP উইকি অ্যাপ ব্যবহার করে, ব্যবহারকারীরা এই ব্যবহারের শর্তাবলী স্বীকার করে এবং সম্মত হন। আপনি যদি এই শর্তগুলির সাথে একমত না হন তবে দয়া করে অ্যাপটি ব্যবহার করা থেকে বিরত থাকুন।

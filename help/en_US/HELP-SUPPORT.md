@@ -11,9 +11,3 @@
 - **Disclaimer:** Read about disclaimers for platform
 
 - **Note:** Use the top right support tools button only with instructions from customer support team
-
-
-
-
-
-

@@ -1,34 +1,34 @@
-## Terms and Conditions
+## ਨਿਬੰਧਨ ਅਤੇ ਸ਼ਰਤਾਂ
 
-By downloading, installing, or using this AAP Wiki App, you agree to abide by these terms of use.
+ਇਸ AAP Wiki ਐਪ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਕੇ, ਸਥਾਪਿਤ ਕਰਕੇ, ਜਾਂ ਵਰਤ ਕੇ, ਤੁਸੀਂ ਇਹਨਾਂ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ।
 
-1. Content Usage:
-The Wiki content provided in the app is for personal, non-commercial use. Users are not allowed to reproduce, distribute, or modify the content without explicit permission.
+1. ਸਮੱਗਰੀ ਦੀ ਵਰਤੋਂ:
+ਐਪ ਵਿੱਚ ਪ੍ਰਦਾਨ ਕੀਤੀ ਵਿਕੀ ਸਮੱਗਰੀ ਨਿੱਜੀ, ਗੈਰ-ਵਪਾਰਕ ਵਰਤੋਂ ਲਈ ਹੈ। ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਸਪਸ਼ਟ ਅਨੁਮਤੀ ਤੋਂ ਬਿਨਾਂ ਸਮੱਗਰੀ ਨੂੰ ਦੁਬਾਰਾ ਤਿਆਰ ਕਰਨ, ਵੰਡਣ ਜਾਂ ਸੰਸ਼ੋਧਿਤ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ।
 
-2. User Conduct:
-Users must use the app in a manner consistent with applicable laws and regulations. Any abusive, unlawful, or disruptive behavior is strictly prohibited.
+2. ਉਪਭੋਗਤਾ ਆਚਰਣ:
+ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਐਪ ਦੀ ਵਰਤੋਂ ਲਾਗੂ ਕਾਨੂੰਨਾਂ ਅਤੇ ਨਿਯਮਾਂ ਦੇ ਅਨੁਕੂਲ ਤਰੀਕੇ ਨਾਲ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ। ਕਿਸੇ ਵੀ ਦੁਰਵਿਵਹਾਰ, ਗੈਰ-ਕਾਨੂੰਨੀ, ਜਾਂ ਵਿਘਨਕਾਰੀ ਵਿਵਹਾਰ ਦੀ ਸਖਤ ਮਨਾਹੀ ਹੈ।
 
-3. Account Information:
-If the app requires user registration, users are responsible for maintaining the confidentiality of their account information. Any actions conducted under their account are their sole responsibility.
+3. ਖਾਤਾ ਜਾਣਕਾਰੀ:
+ਜੇਕਰ ਐਪ ਨੂੰ ਵਰਤੋਂਕਾਰ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਲੋੜ ਹੈ, ਤਾਂ ਵਰਤੋਂਕਾਰ ਆਪਣੀ ਖਾਤਾ ਜਾਣਕਾਰੀ ਦੀ ਗੁਪਤਤਾ ਬਣਾਈ ਰੱਖਣ ਲਈ ਜ਼ਿੰਮੇਵਾਰ ਹਨ। ਉਹਨਾਂ ਦੇ ਖਾਤੇ ਦੇ ਅਧੀਨ ਕੀਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਕੋਈ ਵੀ ਕਾਰਵਾਈਆਂ ਉਹਨਾਂ ਦੀ ਪੂਰੀ ਜ਼ੁੰਮੇਵਾਰੀ ਹੈ।
 
-4. Applicable Laws:
-Users agree to comply with all local, state, and national laws while using the app. Any violation may result in the termination of user access.
+4. ਲਾਗੂ ਕਾਨੂੰਨ:
+ਉਪਭੋਗਤਾ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਸਮੇਂ ਸਾਰੇ ਸਥਾਨਕ, ਰਾਜ ਅਤੇ ਰਾਸ਼ਟਰੀ ਕਾਨੂੰਨਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹਨ। ਕਿਸੇ ਵੀ ਉਲੰਘਣਾ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਉਪਭੋਗਤਾ ਪਹੁੰਚ ਦੀ ਸਮਾਪਤੀ ਹੋ ਸਕਦੀ ਹੈ।
 
-5. Intellectual Property:
-The app and its content are protected by intellectual property laws. Users agree not to infringe upon the copyrights, trademarks, or any other rights associated with the app.
+5. ਬੌਧਿਕ ਸੰਪੱਤੀ:
+ਐਪ ਅਤੇ ਇਸਦੀ ਸਮੱਗਰੀ ਬੌਧਿਕ ਸੰਪਤੀ ਕਾਨੂੰਨਾਂ ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ ਹੈ। ਉਪਭੋਗਤਾ ਕਾਪੀਰਾਈਟਸ, ਟ੍ਰੇਡਮਾਰਕ, ਜਾਂ ਐਪ ਨਾਲ ਜੁੜੇ ਕਿਸੇ ਹੋਰ ਅਧਿਕਾਰਾਂ ਦੀ ਉਲੰਘਣਾ ਨਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹਨ।
 
-6. Third-Party Links:
-The app may contain links to third-party websites. Users acknowledge that these links are provided for convenience, and we do not endorse or control the content on external sites.
+6. ਤੀਜੀ-ਧਿਰ ਦੇ ਲਿੰਕ:
+ਐਪ ਵਿੱਚ ਤੀਜੀ-ਧਿਰ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਲਿੰਕ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹਨ। ਉਪਭੋਗਤਾ ਸਵੀਕਾਰ ਕਰਦੇ ਹਨ ਕਿ ਇਹ ਲਿੰਕ ਸਹੂਲਤ ਲਈ ਪ੍ਰਦਾਨ ਕੀਤੇ ਗਏ ਹਨ, ਅਤੇ ਅਸੀਂ ਬਾਹਰੀ ਸਾਈਟਾਂ 'ਤੇ ਸਮੱਗਰੀ ਦਾ ਸਮਰਥਨ ਜਾਂ ਨਿਯੰਤਰਣ ਨਹੀਂ ਕਰਦੇ ਹਾਂ।
 
-7. Disclaimer of Warranty:
-The app is provided "as is" without any warranties. We do not guarantee the accuracy, completeness, or reliability of the AAP Wiki content.
+7. ਵਾਰੰਟੀ ਦਾ ਬੇਦਾਅਵਾ:
+ਐਪ ਬਿਨਾਂ ਕਿਸੇ ਵਾਰੰਟੀ ਦੇ "ਜਿਵੇਂ ਹੈ" ਪ੍ਰਦਾਨ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਅਸੀਂ AAP ਵਿਕੀ ਸਮੱਗਰੀ ਦੀ ਸ਼ੁੱਧਤਾ, ਸੰਪੂਰਨਤਾ ਜਾਂ ਭਰੋਸੇਯੋਗਤਾ ਦੀ ਗਰੰਟੀ ਨਹੀਂ ਦਿੰਦੇ ਹਾਂ।
 
-8. Limitation of Liability:
-In no event shall the app developers or associated parties be liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use of the app.
+8. ਦੇਣਦਾਰੀ ਦੀ ਸੀਮਾ:
+ਕਿਸੇ ਵੀ ਸਥਿਤੀ ਵਿੱਚ ਐਪ ਡਿਵੈਲਪਰ ਜਾਂ ਸੰਬੰਧਿਤ ਧਿਰਾਂ ਐਪ ਦੀ ਵਰਤੋਂ ਤੋਂ ਹੋਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਪ੍ਰਤੱਖ, ਅਸਿੱਧੇ, ਇਤਫਾਕਨ, ਨਤੀਜੇ ਵਜੋਂ, ਜਾਂ ਦੰਡਕਾਰੀ ਨੁਕਸਾਨ ਲਈ ਜਵਾਬਦੇਹ ਨਹੀਂ ਹੋਣਗੇ।
 
-9. Termination of Access:
-We reserve the right to terminate user access to the app at our discretion, without notice, for any reason, including violation of these terms.
+9. ਪਹੁੰਚ ਦੀ ਸਮਾਪਤੀ:
+ਅਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਦੀ ਉਲੰਘਣਾ ਸਮੇਤ, ਕਿਸੇ ਵੀ ਕਾਰਨ ਕਰਕੇ, ਬਿਨਾਂ ਨੋਟਿਸ ਦੇ, ਆਪਣੀ ਮਰਜ਼ੀ ਨਾਲ ਐਪ ਤੱਕ ਉਪਭੋਗਤਾ ਦੀ ਪਹੁੰਚ ਨੂੰ ਖਤਮ ਕਰਨ ਦਾ ਅਧਿਕਾਰ ਰਾਖਵਾਂ ਰੱਖਦੇ ਹਾਂ।
 
-10. Updates to Terms:
-These terms may be updated without prior notice. Users are encouraged to review the terms regularly for any changes.
-By using the AAP Wiki App, users acknowledge and agree to these terms of use. If you do not agree with these terms, please refrain from using the app.
+10. ਸ਼ਰਤਾਂ ਲਈ ਅੱਪਡੇਟ:
+ਇਹ ਸ਼ਰਤਾਂ ਬਿਨਾਂ ਕਿਸੇ ਪੂਰਵ ਸੂਚਨਾ ਦੇ ਅੱਪਡੇਟ ਕੀਤੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ। ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਤਬਦੀਲੀ ਲਈ ਨਿਯਮਿਤ ਤੌਰ 'ਤੇ ਨਿਯਮਾਂ ਦੀ ਸਮੀਖਿਆ ਕਰਨ ਲਈ ਉਤਸ਼ਾਹਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
+AAP ਵਿਕੀ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਉਪਭੋਗਤਾ ਇਹਨਾਂ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਨੂੰ ਸਵੀਕਾਰ ਕਰਦੇ ਹਨ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹਨ। ਜੇਕਰ ਤੁਸੀਂ ਇਹਨਾਂ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਦੀ ਵਰਤੋਂ ਕਰਨ ਤੋਂ ਪਰਹੇਜ਼ ਕਰੋ।

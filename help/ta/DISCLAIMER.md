@@ -1,11 +1,11 @@
-## Full Disclaimer
+## முழு மறுப்பு
 
-The information contained in this website is for general information purposes only. The information is derived from duly mentioned references of information for public use and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+இந்த இணையதளத்தில் உள்ள தகவல்கள் பொதுவான தகவல் நோக்கங்களுக்காக மட்டுமே. பொது பயன்பாட்டிற்கான தகவல்களின் முறையாக குறிப்பிடப்பட்ட குறிப்புகளிலிருந்து தகவல் பெறப்படுகிறது, மேலும் தகவலை புதுப்பித்ததாகவும், சரியானதாகவும் வைத்திருக்க முயற்சிக்கும் போது, முழுமை, துல்லியம், நம்பகத்தன்மை, பொருந்தக்கூடிய தன்மை பற்றி வெளிப்படையான அல்லது மறைமுகமாக எந்த விதமான பிரதிநிதித்துவங்கள் அல்லது உத்தரவாதங்களை நாங்கள் செய்யவில்லை. அல்லது இணையதளம் அல்லது எந்த நோக்கத்திற்காக இணையதளத்தில் உள்ள தகவல், தயாரிப்புகள், சேவைகள் அல்லது தொடர்புடைய கிராபிக்ஸ் ஆகியவற்றைப் பொறுத்தவரையில் கிடைக்கும் தன்மை. அத்தகைய தகவலின் மீது நீங்கள் வைக்கும் எந்தவொரு நம்பிக்கையும் கண்டிப்பாக உங்கள் சொந்த ஆபத்தில் உள்ளது.
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.
+எந்தவொரு சந்தர்ப்பத்திலும், எந்தவொரு இழப்பு அல்லது சேதத்திற்கும் நாங்கள் பொறுப்பேற்க மாட்டோம், வரம்பு இல்லாமல், மறைமுக அல்லது விளைவான இழப்பு அல்லது சேதம், அல்லது இந்த வலைத்தளத்தின் பயன்பாட்டினால் ஏற்படும் தரவு அல்லது இலாப இழப்பால் ஏற்படும் இழப்பு அல்லது சேதம். .
 
-Through this website you are able to link to other websites which are not under our control. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+இந்த இணையதளத்தின் மூலம் எங்கள் கட்டுப்பாட்டில் இல்லாத மற்ற இணையதளங்களை நீங்கள் இணைக்க முடியும். அந்த தளங்களின் தன்மை, உள்ளடக்கம் மற்றும் கிடைக்கும் தன்மை மீது எங்களுக்கு எந்த கட்டுப்பாடும் இல்லை. எந்தவொரு இணைப்புகளையும் சேர்ப்பது ஒரு பரிந்துரையைக் குறிக்கவோ அல்லது அவற்றில் வெளிப்படுத்தப்பட்ட கருத்துக்களை அங்கீகரிக்கவோ அவசியமில்லை.
 
-Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+இணையதளம் சீராக இயங்குவதற்கு அனைத்து முயற்சிகளும் மேற்கொள்ளப்படுகின்றன. எவ்வாறாயினும், எங்கள் கட்டுப்பாட்டிற்கு அப்பாற்பட்ட தொழில்நுட்ப சிக்கல்கள் காரணமாக இணையதளம் தற்காலிகமாக கிடைக்காமல் போனதற்கு நாங்கள் பொறுப்பேற்க மாட்டோம், பொறுப்பேற்க மாட்டோம்.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**குறிப்பு: ஏதேனும் தவறு/தவறான தகவல்களைக் கண்டால், எங்களைத் தொடர்பு கொள்ளவும். பரிந்துரைக்கப்பட்ட குறிப்பிலிருந்து தகவலைச் சரிபார்த்த பிறகு திருத்தங்களைச் செய்வதில் நாங்கள் மகிழ்ச்சியடைகிறோம்**

@@ -1,4 +1,4 @@
-# **Bookmarks**
+# **بک مارکس**
 
-- View your bookmarked articles when logged-in (Google or Apple).
-- To toggle bookmarks, kindly do it from home page using the bookmark button of specific article.
+- **لاگ ان ہونے پر اپنے بک مارک شدہ مضامین دیکھیں** (گوگل یا ایپل)
+- **بک مارکس کو ٹوگل کرنے کے لیے**، برائے مہربانی اسے ہوم سے کریں یا مخصوص مضمون کے بُک مارک بٹن کا استعمال کریں۔

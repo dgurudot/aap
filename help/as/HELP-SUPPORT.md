@@ -1,18 +1,13 @@
-# **Support**
+# **সংযুক্ত কৰক**
 
-- **FAQs and Requests:** Find answers to frequently asked questions 24x7. Contact live chat support or open support cases.
-- **Feedback:** Share your feedback openly along with suggestions to improve experience.
-- **Rate:** Rate your experience on App/Play Stores.
-- **Share:** Share application with friends and family.
-- **Disclaimer:** Read about disclaimers for platform.
-- **Privacy:** Read about privacy for platform.
-- **Terms of Use:** Read about terms of use for platform.
-- **Social Media:** Click on specific social media icons to connect with us via your favorite social media channels.
+- **FAQs and Requests:** সঘনাই সোধা প্রশ্নৰ উত্তৰ বিচাৰি পাওক 24x7. লাইভ চেট সমৰ্থন বা মুক্ত সমৰ্থন ক্ষেত্ৰসমূহৰ সৈতে যোগাযোগ কৰক
+- **মতামত:** অভিজ্ঞতা উন্নত কৰিবলৈ পৰামৰ্শৰ সৈতে আপোনাৰ মতামত মুকলিকৈ ভাগ-বতৰা কৰক
+- **স্বেচ্ছাসেৱী:** দলত যোগদান কৰিব বিচাৰিলে আমাৰ সৈতে যোগাযোগ কৰক
+- ** ৰেট:** এপ / প্লে ষ্ট'ৰ আপনার অভিজ্ঞতা রেটিং
+- **শ্বেয়াৰ:** বন্ধু-বান্ধৱ আৰু পৰিয়ালৰ সৈতে এপ্লিকেচন শ্বেয়াৰ কৰক
+- **ছ'চিয়েল মিডিয়া:** আপোনাৰ প্ৰিয় ছ'চিয়েল মিডিয়া চেনেলৰ জৰিয়তে আমাৰ সৈতে সংযোগ স্থাপন কৰিবলৈ নিৰ্দিষ্ট ছ'চিয়েল মিডিয়া আইকনত ক্লিক কৰক
+- **গোপনীয়তা:** প্লেটফৰ্মৰ বাবে গোপনীয়তাৰ বিষয়ে পঢ়ক
+- **ব্যৱহাৰৰ চৰ্তসমূহ:** প্লেটফৰ্মৰ বাবে ব্যৱহাৰৰ চৰ্তসমূহৰ বিষয়ে পঢ়ক
+- **অস্বীকাৰ:** প্লেটফৰ্মৰ বাবে অস্বীকাৰ সম্পৰ্কে পঢ়ক
 
-- **Note:** Use the top right support tools button only with instructions from customer support team.
-
-
-
-
-
-
+- **টোকা:** গ্ৰাহক সমৰ্থন দলৰ পৰা নিৰ্দেশনাৰ সৈতে কেৱল ওপৰৰ সোঁ সমৰ্থন সঁজুলি বুটাম ব্যৱহাৰ কৰক
