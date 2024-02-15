@@ -8,4 +8,4 @@ Through this website you are able to link to other websites which are not under 
 
 Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
 
-Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference.
+**Note: If you find any fault/misinformation, please contact us. We are happy to make corrections after dully verifying the information from suggested reference**
