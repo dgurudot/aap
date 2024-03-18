@@ -1,4 +1,6 @@
 # **Social**
 
-- View daily app social content here.
-- You can adjust the view of social page where content is not played automatically (default) or auto-play by clicking on button on top left
+- Daily **must-watch videos**
+- Highlighted social **content of the day**
+- Customize your view and **auto-play videos** by clicking the carousel button located at the top right
+- **Share your specific video** by clicking on share button at the top right of video

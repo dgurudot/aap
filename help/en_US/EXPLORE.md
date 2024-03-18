@@ -1,5 +1,6 @@
 # **Explore**
 
-- Allows you to explore all categories.
-- Select specific category from top level tiles and scroll to select and filter
-- Search across all categories or specific category (when category is selected)
+- Lists all articles across selected category
+- **Most recent first** - All articles are shown in sorted order of updated time
+- Scroll and select specific category from top level tiles
+- Search across a specific selected category
