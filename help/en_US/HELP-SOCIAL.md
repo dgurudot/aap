@@ -1,4 +1,4 @@
-# **Social**
+# **NewsCast**
 
 - Daily **must-watch videos**
 - Highlighted social **content of the day**
