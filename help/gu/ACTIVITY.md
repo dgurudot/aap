@@ -1,4 +1,4 @@
-# **Activity**
+# **કેમ્પેઈન**
 
-- **View your activities** when logged-in (Google or Apple)
-- To **complete activity**, kindly click on specific social media icon of specific activity
+- તમારી કેમ્પેઈન પ્રવૃત્તિઓ જુઓ જ્યારે તમે લોગ-ઇન છો (Google અથવા Apple)
+- કેમ્પેઈન પ્રવૃત્તિ પૂર્ણ કરવા માટે, કૃપા કરીને વિશિષ્ટ પ્રવૃત્તિના વિશિષ્ટ સોશિયલ મીડિયા આઇકન પર ક્લિક કરો

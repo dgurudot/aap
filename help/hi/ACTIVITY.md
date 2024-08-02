@@ -1,4 +1,4 @@
-# **Activity**
+# **अभियान**
 
-- **View your activities** when logged-in (Google or Apple)
-- To **complete activity**, kindly click on specific social media icon of specific activity
+- जब आप लॉग-इन होते हैं (Google या Apple), तो अपने *अभियान गतिविधियों* को देखें
+- *अभियान गतिविधि को पूरा* करने के लिए, कृपया विशिष्ट गतिविधि के विशिष्ट सोशल मीडिया आइकन पर क्लिक करें

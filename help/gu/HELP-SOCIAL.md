@@ -1,4 +1,4 @@
-# **Social**
+# **ન્યૂઝકાસ્ટ**
 
-- View daily app social content here.
-- You can adjust the view of social page where content is not played automatically (default) or auto-play by clicking on button on top left
+- દૈનિક એપ્લિકેશનના સામાજિક સામગ્રી અહીં જુઓ.
+- તમે સામાજિક પેજના દ્રશ્યને એડજસ્ટ કરી શકો છો જ્યાં સામગ્રી સ્વચાલિત રીતે ન ચાલે (ડિફોલ્ટ) અથવા ટોચના ડાબી બાજુના બટન પર ક્લિક કરીને ઓટો-પ્લે કરો

@@ -1,4 +1,4 @@
-# **Explore**
+# **Feed**
 
 - Lists all articles across selected category
 - **Most recent first** - All articles are shown in sorted order of updated time
